@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Transaction_Date,Account_Type,Transaction_Type,Amount,Balance,Branch,City,State,Payment_Mode,Customer_Age,Gender,Customer_Segment,Loan_Status
+TXN00001,CUST0048,2025-01-16,Current,Deposit,33870.01,369553.25,BR-014,Bengaluru,Karnataka,IMPS,55,Male,Corporate,No Loan
+TXN00002,CUST0217,2025-03-23,Savings,Transfer,97657.72,274746.03,BR-022,New Delhi,Delhi,Debit Card,49,Female,Retail,No Loan
+TXN00003,CUST0064,2025-10-02,Savings,Withdrawal,15780.44,193064.01,BR-025,Hyderabad,Telangana,Credit Card,43,Female,Retail,No Loan
+TXN00004,CUST0041,2025-05-29,Current,Transfer,92968.7,431544.92,BR-015,Mangaluru,Karnataka,NEFT,33,Male,Retail,No Loan
+TXN00005,CUST0037,2025-12-16,Current,Withdrawal,95534.82,185591.93,BR-039,Mysuru,Karnataka,Credit Card,43,Male,Corporate,Rejected
+TXN00006,CUST0118,2025-01-29,Savings,Deposit,69607.9,138624.17,BR-003,Vadodara,Gujarat,IMPS,65,Male,Corporate,Rejected
+TXN00007,CUST0235,2025-11-26,Current,Deposit,32041.94,471740.31,BR-010,Coimbatore,Tamil Nadu,IMPS,41,Male,Corporate,No Loan
+TXN00008,CUST0261,2025-03-12,Savings,Transfer,84424.54,135057.1,BR-032,Hyderabad,Telangana,NEFT,48,Female,Premium,Approved
+TXN00009,CUST0271,2025-08-28,Savings,Deposit,94303.18,397079.29,BR-017,Bengaluru,Karnataka,Cash,59,Male,Premium,No Loan
+TXN00010,CUST0257,2025-05-15,Current,Transfer,51356.23,150282.56,BR-049,Pune,Maharashtra,Debit Card,50,Male,Corporate,No Loan
+TXN00011,CUST0272,2025-10-04,Savings,Transfer,45117.5,321280.0,BR-001,Vadodara,Gujarat,NEFT,33,Male,Premium,No Loan
+TXN00012,CUST0044,2025-02-10,Savings,Deposit,139400.24,439967.33,BR-047,Coimbatore,Tamil Nadu,Credit Card,36,Male,Retail,No Loan
+TXN00013,CUST0103,2025-12-20,Savings,Deposit,99132.75,473690.1,BR-046,Jaipur,Rajasthan,Debit Card,37,Female,Retail,No Loan
+TXN00014,CUST0118,2025-10-11,Current,Withdrawal,134992.31,228485.64,BR-038,Warangal,Telangana,Debit Card,35,Male,Premium,Approved
+TXN00015,CUST0249,2025-12-09,Savings,Transfer,94849.89,118326.18,BR-014,New Delhi,Delhi,UPI,42,Male,Corporate,Approved
+TXN00016,CUST0211,2025-08-05,Current,Deposit,117800.6,404711.01,BR-030,Vadodara,Gujarat,Debit Card,27,Male,Corporate,No Loan
+TXN00017,CUST0217,2025-03-13,Savings,Withdrawal,109367.93,401293.29,BR-012,Pune,Maharashtra,UPI,36,Male,Retail,No Loan
+TXN00018,CUST0048,2025-01-08,Savings,Deposit,66748.05,431367.81,BR-049,Warangal,Telangana,NEFT,27,Male,Corporate,No Loan
+TXN00019,CUST0233,2025-05-16,Current,Withdrawal,72463.08,433001.95,BR-019,New Delhi,Delhi,UPI,31,Female,Retail,No Loan
+TXN00020,CUST0300,2025-01-26,Savings,Deposit,44857.82,484511.14,BR-031,Howrah,West Bengal,NEFT,55,Male,Corporate,Rejected
+TXN00021,CUST0021,2025-11-01,Savings,Deposit,10743.94,38640.63,BR-040,Ahmedabad,Gujarat,Debit Card,46,Male,Corporate,Approved
+TXN00022,CUST0235,2025-06-03,Current,Withdrawal,31036.75,359514.94,BR-021,Mysuru,Karnataka,Debit Card,37,Female,Retail,No Loan
+TXN00023,CUST0036,2025-06-28,Current,Transfer,149768.94,498067.74,BR-016,Bengaluru,Karnataka,UPI,55,Male,Corporate,Rejected
+TXN00024,CUST0054,2025-06-03,Savings,Withdrawal,125144.87,353252.26,BR-009,Coimbatore,Tamil Nadu,NEFT,62,Male,Corporate,No Loan
+TXN00025,CUST0259,2025-05-16,Savings,Transfer,83206.93,139812.37,BR-032,Hyderabad,Telangana,NEFT,34,Female,Retail,No Loan
+TXN00026,CUST0227,2025-03-24,Savings,Transfer,63824.58,141956.71,BR-036,Hyderabad,Telangana,UPI,42,Male,Corporate,No Loan
+TXN00027,CUST0221,2025-03-17,Savings,Deposit,141785.12,347054.71,BR-009,Kolkata,West Bengal,Debit Card,55,Male,Premium,No Loan
+TXN00028,CUST0080,2025-07-28,Current,Deposit,134889.23,108987.89,BR-016,Nashik,Maharashtra,Debit Card,63,Male,Premium,No Loan
+TXN00029,CUST0056,2025-12-26,Current,Deposit,27314.42,462621.21,BR-025,Ahmedabad,Gujarat,Cash,63,Male,Premium,Approved
+TXN00030,CUST0169,2025-07-24,Savings,Deposit,122579.7,232850.1,BR-018,Nagpur,Maharashtra,Credit Card,35,Male,Retail,No Loan
+TXN00031,CUST0092,2025-05-14,Current,Transfer,76656.15,341361.47,BR-038,Mysuru,Karnataka,NEFT,42,Male,Retail,No Loan
+TXN00032,CUST0131,2025-04-08,Savings,Transfer,65467.28,365629.81,BR-003,Hyderabad,Telangana,Credit Card,48,Male,Premium,No Loan
+TXN00033,CUST0260,2025-06-03,Savings,Withdrawal,64978.96,474692.87,BR-020,Kolkata,West Bengal,Credit Card,60,Female,Corporate,No Loan
+TXN00034,CUST0292,2025-03-31,Current,Transfer,44700.45,68007.46,BR-020,Howrah,West Bengal,Cash,63,Female,Corporate,No Loan
+TXN00035,CUST0110,2025-12-12,Current,Withdrawal,31922.31,393950.62,BR-033,Kolkata,West Bengal,NEFT,62,Female,Premium,No Loan
+TXN00036,CUST0159,2025-05-01,Savings,Transfer,13176.93,260148.74,BR-015,Udaipur,Rajasthan,IMPS,60,Female,Retail,No Loan
+TXN00037,CUST0197,2025-12-23,Savings,Deposit,37103.96,240192.49,BR-032,New Delhi,Delhi,UPI,50,Female,Corporate,No Loan
+TXN00038,CUST0266,2025-12-23,Savings,Transfer,103299.55,446866.61,BR-030,Kolkata,West Bengal,UPI,48,Male,Retail,No Loan
+TXN00039,CUST0219,2025-09-16,Savings,Deposit,68741.04,401701.22,BR-036,Aurangabad,Maharashtra,IMPS,54,Female,Premium,No Loan
+TXN00040,CUST0040,2025-08-14,Current,Withdrawal,39249.14,127383.67,BR-046,Jaipur,Rajasthan,IMPS,38,Female,Corporate,Approved
+TXN00041,CUST0110,2025-12-28,Current,Withdrawal,48296.58,272375.35,BR-005,Hyderabad,Telangana,Debit Card,30,Male,Premium,No Loan
+TXN00042,CUST0181,2025-01-04,Current,Transfer,70155.68,35821.53,BR-020,Howrah,West Bengal,Cash,45,Male,Corporate,No Loan
+TXN00043,CUST0085,2025-07-27,Savings,Withdrawal,33303.53,220738.81,BR-030,Howrah,West Bengal,UPI,45,Female,Corporate,No Loan
+TXN00044,CUST0026,2025-04-04,Savings,Withdrawal,88987.97,333184.88,BR-017,Vadodara,Gujarat,UPI,62,Female,Retail,No Loan
+TXN00045,CUST0010,2025-08-29,Savings,Withdrawal,49363.45,381808.71,BR-048,Howrah,West Bengal,Cash,38,Female,Premium,No Loan
+TXN00046,CUST0079,2025-11-15,Savings,Transfer,10758.45,478856.37,BR-016,Nashik,Maharashtra,UPI,22,Male,Retail,No Loan
+TXN00047,CUST0084,2025-02-28,Savings,Transfer,142189.67,235191.82,BR-020,Surat,Gujarat,Credit Card,44,Male,Corporate,No Loan
+TXN00048,CUST0125,2025-11-18,Savings,Withdrawal,86581.61,454472.94,BR-007,Mangaluru,Karnataka,Cash,46,Male,Retail,No Loan
+TXN00049,CUST0055,2025-09-08,Savings,Withdrawal,80145.41,332453.06,BR-028,Hyderabad,Telangana,UPI,53,Female,Retail,No Loan
+TXN00050,CUST0248,2025-10-03,Current,Transfer,23372.18,92187.8,BR-030,Madurai,Tamil Nadu,NEFT,62,Female,Corporate,No Loan
+TXN00051,CUST0173,2025-07-14,Current,Deposit,124694.29,47898.13,BR-002,Howrah,West Bengal,Cash,36,Female,Corporate,No Loan
+TXN00052,CUST0044,2025-04-08,Savings,Withdrawal,32211.92,399927.02,BR-016,Jodhpur,Rajasthan,Credit Card,38,Female,Corporate,Approved
+TXN00053,CUST0125,2025-12-21,Savings,Transfer,71675.92,357361.99,BR-020,Howrah,West Bengal,Cash,22,Male,Premium,Approved
+TXN00054,CUST0062,2025-04-29,Current,Withdrawal,149496.4,277442.29,BR-047,Coimbatore,Tamil Nadu,Credit Card,65,Female,Premium,Rejected
+TXN00055,CUST0269,2025-10-29,Savings,Transfer,80611.66,382283.86,BR-039,Delhi,Delhi,Debit Card,33,Male,Corporate,No Loan
+TXN00056,CUST0284,2025-01-28,Savings,Withdrawal,34508.73,93823.56,BR-019,Hyderabad,Telangana,UPI,55,Male,Premium,Approved
+TXN00057,CUST0130,2025-01-27,Current,Deposit,130971.6,289161.79,BR-031,Vadodara,Gujarat,Cash,51,Female,Premium,Approved
+TXN00058,CUST0128,2025-02-13,Current,Withdrawal,11575.28,316575.62,BR-008,Bengaluru,Karnataka,UPI,30,Male,Corporate,No Loan
+TXN00059,CUST0051,2025-11-09,Current,Withdrawal,136321.4,152189.8,BR-049,Kolkata,West Bengal,NEFT,48,Female,Corporate,No Loan
+TXN00060,CUST0241,2025-12-19,Current,Transfer,12637.53,123733.26,BR-019,New Delhi,Delhi,NEFT,25,Male,Retail,No Loan
+TXN00061,CUST0102,2025-11-17,Current,Transfer,42766.4,430505.33,BR-028,Mumbai,Maharashtra,UPI,64,Male,Premium,No Loan
+TXN00062,CUST0292,2025-11-01,Savings,Transfer,22773.92,136488.07,BR-019,Mangaluru,Karnataka,Debit Card,25,Male,Retail,No Loan
+TXN00063,CUST0222,2025-01-21,Current,Transfer,45961.63,204241.72,BR-048,Jaipur,Rajasthan,Credit Card,53,Female,Premium,Approved
+TXN00064,CUST0021,2025-10-23,Current,Deposit,14153.37,481146.0,BR-049,Madurai,Tamil Nadu,NEFT,58,Male,Corporate,No Loan
+TXN00065,CUST0165,2025-06-20,Current,Withdrawal,27632.63,294738.16,BR-043,Surat,Gujarat,IMPS,52,Male,Premium,Rejected
+TXN00066,CUST0166,2025-05-10,Current,Withdrawal,104204.21,147667.81,BR-008,Bengaluru,Karnataka,Cash,56,Male,Premium,Approved
+TXN00067,CUST0068,2025-10-09,Current,Withdrawal,8603.51,261627.5,BR-019,Kolkata,West Bengal,NEFT,52,Female,Retail,Approved
+TXN00068,CUST0048,2025-07-28,Current,Deposit,4815.98,316861.03,BR-015,Udaipur,Rajasthan,Debit Card,31,Female,Corporate,Approved
+TXN00069,CUST0125,2025-08-30,Savings,Transfer,124905.4,251695.87,BR-030,Mysuru,Karnataka,IMPS,39,Female,Premium,No Loan
+TXN00070,CUST0137,2025-09-17,Savings,Transfer,76482.01,440266.5,BR-001,Surat,Gujarat,UPI,38,Female,Premium,No Loan
+TXN00071,CUST0123,2025-04-07,Current,Deposit,67258.84,244748.99,BR-037,Warangal,Telangana,Credit Card,56,Female,Premium,No Loan
+TXN00072,CUST0258,2025-03-06,Current,Deposit,48067.36,239123.24,BR-038,Kolkata,West Bengal,Cash,45,Male,Premium,No Loan
+TXN00073,CUST0241,2025-02-08,Current,Deposit,79129.69,231179.4,BR-017,Chennai,Tamil Nadu,IMPS,30,Female,Corporate,No Loan
+TXN00074,CUST0278,2025-09-07,Current,Transfer,12507.14,167639.97,BR-003,Madurai,Tamil Nadu,IMPS,55,Female,Premium,No Loan
+TXN00075,CUST0015,2025-06-03,Current,Deposit,112141.57,219815.88,BR-003,Bengaluru,Karnataka,UPI,61,Male,Premium,Approved
+TXN00076,CUST0196,2025-11-09,Current,Withdrawal,56538.74,77057.05,BR-040,Chennai,Tamil Nadu,NEFT,47,Male,Retail,Approved
+TXN00077,CUST0280,2025-12-13,Savings,Deposit,69441.91,130718.78,BR-011,Delhi,Delhi,Credit Card,63,Male,Premium,No Loan
+TXN00078,CUST0248,2025-07-16,Current,Transfer,45223.56,481204.39,BR-007,Mysuru,Karnataka,IMPS,37,Female,Premium,Approved
+TXN00079,CUST0026,2025-12-18,Current,Transfer,44732.92,351143.14,BR-039,Delhi,Delhi,UPI,63,Female,Premium,Approved
+TXN00080,CUST0071,2025-12-04,Savings,Transfer,120388.83,113407.25,BR-041,Jodhpur,Rajasthan,Debit Card,60,Female,Corporate,No Loan
+TXN00081,CUST0090,2025-08-01,Savings,Withdrawal,118397.27,21515.44,BR-013,Mangaluru,Karnataka,Credit Card,29,Male,Premium,Rejected
+TXN00082,CUST0059,2025-06-23,Current,Transfer,75518.32,139901.04,BR-030,Vadodara,Gujarat,Debit Card,37,Female,Premium,No Loan
+TXN00083,CUST0064,2025-10-02,Savings,Transfer,108770.4,490071.41,BR-030,Bengaluru,Karnataka,NEFT,44,Male,Premium,Approved
+TXN00084,CUST0168,2025-10-15,Current,Transfer,57463.31,321081.89,BR-040,Madurai,Tamil Nadu,Credit Card,27,Male,Premium,Approved
+TXN00085,CUST0050,2025-03-01,Current,Transfer,45677.43,207106.45,BR-016,New Delhi,Delhi,Debit Card,23,Male,Premium,No Loan
+TXN00086,CUST0209,2025-09-08,Current,Withdrawal,100737.69,372854.36,BR-018,Surat,Gujarat,NEFT,47,Male,Premium,No Loan
+TXN00087,CUST0184,2025-11-27,Savings,Withdrawal,66982.03,121875.76,BR-004,Nashik,Maharashtra,Credit Card,27,Female,Corporate,No Loan
+TXN00088,CUST0026,2025-01-11,Savings,Deposit,142377.11,412974.59,BR-022,Howrah,West Bengal,UPI,63,Male,Corporate,No Loan
+TXN00089,CUST0002,2025-11-02,Savings,Deposit,124557.77,279332.86,BR-018,New Delhi,Delhi,NEFT,34,Male,Premium,No Loan
+TXN00090,CUST0090,2025-01-09,Current,Deposit,16933.99,433891.7,BR-017,Ahmedabad,Gujarat,Debit Card,21,Female,Retail,No Loan
+TXN00091,CUST0023,2025-11-11,Current,Transfer,17490.57,36461.23,BR-047,Mumbai,Maharashtra,Cash,44,Male,Premium,No Loan
+TXN00092,CUST0038,2025-08-16,Savings,Deposit,149788.72,424412.78,BR-006,Warangal,Telangana,Cash,64,Male,Premium,No Loan
+TXN00093,CUST0151,2025-09-29,Savings,Deposit,19365.64,314037.16,BR-030,Madurai,Tamil Nadu,NEFT,56,Female,Premium,No Loan
+TXN00094,CUST0174,2025-07-31,Savings,Transfer,97812.04,385636.55,BR-030,Kolkata,West Bengal,IMPS,34,Female,Premium,No Loan
+TXN00095,CUST0048,2025-02-13,Savings,Withdrawal,64301.22,334228.39,BR-028,Howrah,West Bengal,Credit Card,30,Female,Retail,Approved
+TXN00096,CUST0217,2025-07-01,Current,Deposit,83677.42,295300.22,BR-047,Mangaluru,Karnataka,NEFT,56,Female,Corporate,Approved
+TXN00097,CUST0285,2025-06-29,Current,Withdrawal,15988.28,256169.21,BR-024,Nashik,Maharashtra,Debit Card,63,Female,Retail,No Loan
+TXN00098,CUST0137,2025-12-22,Savings,Withdrawal,126850.7,487400.57,BR-002,Mysuru,Karnataka,NEFT,60,Male,Corporate,No Loan
+TXN00099,CUST0016,2025-11-21,Current,Withdrawal,52978.0,94795.75,BR-006,Surat,Gujarat,Debit Card,57,Female,Retail,Approved
+TXN00100,CUST0026,2025-11-13,Current,Withdrawal,51463.95,188176.28,BR-044,Delhi,Delhi,IMPS,41,Male,Retail,Approved
+TXN00101,CUST0057,2025-08-09,Current,Transfer,63890.21,305502.62,BR-019,Mysuru,Karnataka,Cash,38,Male,Corporate,Approved
+TXN00102,CUST0131,2025-03-12,Current,Deposit,33467.51,492300.6,BR-019,Udaipur,Rajasthan,UPI,21,Male,Premium,No Loan
+TXN00103,CUST0182,2025-12-09,Savings,Withdrawal,112178.61,91968.93,BR-005,Chennai,Tamil Nadu,Cash,55,Male,Corporate,No Loan
+TXN00104,CUST0214,2025-11-24,Current,Deposit,69233.26,43541.99,BR-019,Kolkata,West Bengal,Credit Card,57,Female,Corporate,No Loan
+TXN00105,CUST0125,2025-02-24,Savings,Withdrawal,26195.04,474069.08,BR-028,Mysuru,Karnataka,Cash,65,Female,Retail,No Loan
+TXN00106,CUST0180,2025-06-28,Current,Withdrawal,111997.82,114678.17,BR-047,Kolkata,West Bengal,Debit Card,25,Male,Corporate,No Loan
+TXN00107,CUST0253,2025-11-18,Savings,Deposit,38767.25,90882.02,BR-030,Ahmedabad,Gujarat,Debit Card,62,Male,Retail,No Loan
+TXN00108,CUST0260,2025-06-30,Current,Transfer,47762.76,222682.59,BR-005,Udaipur,Rajasthan,Cash,49,Female,Premium,No Loan
+TXN00109,CUST0237,2025-07-16,Current,Deposit,9005.06,416689.83,BR-038,Warangal,Telangana,UPI,62,Male,Corporate,No Loan
+TXN00110,CUST0259,2025-02-13,Savings,Withdrawal,90948.37,253176.81,BR-042,Nagpur,Maharashtra,UPI,49,Male,Premium,No Loan
+TXN00111,CUST0199,2025-05-25,Savings,Transfer,65944.86,222513.79,BR-027,Ahmedabad,Gujarat,NEFT,60,Male,Premium,No Loan
+TXN00112,CUST0077,2025-12-03,Savings,Transfer,97272.15,37626.37,BR-022,Madurai,Tamil Nadu,UPI,56,Female,Premium,Rejected
+TXN00113,CUST0159,2025-02-13,Savings,Withdrawal,46879.64,329747.09,BR-036,Mangaluru,Karnataka,IMPS,46,Male,Corporate,No Loan
+TXN00114,CUST0186,2025-09-18,Savings,Transfer,105573.22,473818.77,BR-002,Howrah,West Bengal,IMPS,54,Male,Corporate,No Loan
+TXN00115,CUST0260,2025-02-21,Savings,Deposit,51588.99,384247.32,BR-050,Coimbatore,Tamil Nadu,Debit Card,35,Male,Retail,Approved
+TXN00116,CUST0187,2025-07-30,Savings,Transfer,56819.62,85312.37,BR-044,Nashik,Maharashtra,IMPS,60,Male,Corporate,No Loan
+TXN00117,CUST0226,2025-10-20,Current,Transfer,117678.15,120831.46,BR-030,Delhi,Delhi,Debit Card,40,Female,Retail,No Loan
+TXN00118,CUST0284,2025-07-10,Current,Deposit,122625.24,401623.32,BR-007,Warangal,Telangana,Debit Card,37,Male,Corporate,No Loan
+TXN00119,CUST0014,2025-06-28,Savings,Deposit,41282.3,453126.57,BR-027,Mysuru,Karnataka,Debit Card,48,Male,Retail,No Loan
+TXN00120,CUST0172,2025-11-29,Current,Deposit,58231.83,45394.69,BR-010,Nagpur,Maharashtra,Debit Card,22,Female,Retail,No Loan
+TXN00121,CUST0010,2025-02-10,Current,Withdrawal,104562.76,73702.38,BR-017,Ahmedabad,Gujarat,IMPS,51,Female,Corporate,Approved
+TXN00122,CUST0235,2025-11-15,Current,Deposit,116537.81,122631.91,BR-005,New Delhi,Delhi,UPI,24,Male,Premium,No Loan
+TXN00123,CUST0293,2025-05-04,Savings,Transfer,77548.67,124759.38,BR-027,Mysuru,Karnataka,Debit Card,39,Female,Retail,No Loan
+TXN00124,CUST0199,2025-01-23,Savings,Transfer,146210.85,38501.26,BR-024,Vadodara,Gujarat,NEFT,55,Male,Premium,No Loan
+TXN00125,CUST0174,2025-10-07,Current,Deposit,52047.97,367805.81,BR-042,Hyderabad,Telangana,IMPS,27,Female,Retail,Approved
+TXN00126,CUST0103,2025-01-23,Current,Transfer,72040.41,95227.61,BR-003,Vadodara,Gujarat,Debit Card,25,Female,Retail,Rejected
+TXN00127,CUST0170,2025-01-25,Current,Transfer,71273.27,23127.28,BR-018,Coimbatore,Tamil Nadu,IMPS,33,Female,Premium,No Loan
+TXN00128,CUST0266,2025-07-08,Current,Withdrawal,111624.5,447845.56,BR-018,Mysuru,Karnataka,Cash,42,Male,Premium,No Loan
+TXN00129,CUST0152,2025-06-17,Current,Deposit,64875.77,497573.59,BR-020,Mangaluru,Karnataka,Debit Card,55,Female,Premium,Approved
+TXN00130,CUST0039,2025-01-30,Current,Deposit,103619.84,179015.76,BR-043,Udaipur,Rajasthan,UPI,43,Female,Premium,No Loan
+TXN00131,CUST0188,2025-11-27,Savings,Deposit,21845.53,305748.59,BR-024,Howrah,West Bengal,Cash,23,Male,Retail,Approved
+TXN00132,CUST0143,2025-06-10,Savings,Transfer,67763.42,188627.43,BR-016,Kolkata,West Bengal,Cash,25,Male,Corporate,No Loan
+TXN00133,CUST0147,2025-11-10,Savings,Withdrawal,77902.92,457203.54,BR-045,Bengaluru,Karnataka,UPI,37,Female,Corporate,No Loan
+TXN00134,CUST0178,2025-06-13,Savings,Deposit,127997.53,228761.13,BR-046,Jaipur,Rajasthan,IMPS,49,Male,Corporate,No Loan
+TXN00135,CUST0103,2025-03-04,Current,Withdrawal,127778.63,357345.51,BR-009,Mangaluru,Karnataka,IMPS,61,Male,Premium,No Loan
+TXN00136,CUST0270,2025-09-03,Savings,Withdrawal,83326.2,187611.03,BR-027,Delhi,Delhi,NEFT,29,Male,Retail,Rejected
+TXN00137,CUST0094,2025-10-10,Savings,Withdrawal,96529.62,227737.38,BR-050,Kolkata,West Bengal,IMPS,54,Female,Retail,No Loan
+TXN00138,CUST0146,2025-09-23,Savings,Deposit,77956.27,155541.65,BR-006,Surat,Gujarat,Debit Card,41,Male,Premium,No Loan
+TXN00139,CUST0088,2025-03-20,Current,Deposit,93940.84,309142.0,BR-043,Hyderabad,Telangana,UPI,53,Male,Corporate,No Loan
+TXN00140,CUST0016,2025-11-24,Savings,Deposit,12642.82,474530.69,BR-032,Madurai,Tamil Nadu,NEFT,37,Male,Corporate,No Loan
+TXN00141,CUST0213,2025-08-14,Current,Deposit,120800.88,344070.47,BR-031,Warangal,Telangana,Credit Card,50,Male,Corporate,Approved
+TXN00142,CUST0288,2025-09-21,Current,Transfer,21978.47,431435.11,BR-007,Jaipur,Rajasthan,Credit Card,43,Female,Retail,No Loan
+TXN00143,CUST0128,2025-08-03,Current,Deposit,40487.02,127719.85,BR-011,Chennai,Tamil Nadu,UPI,24,Female,Premium,No Loan
+TXN00144,CUST0202,2025-02-16,Current,Deposit,114586.65,251641.44,BR-033,Madurai,Tamil Nadu,NEFT,50,Female,Premium,No Loan
+TXN00145,CUST0221,2025-02-25,Savings,Transfer,53257.82,30017.5,BR-009,Jaipur,Rajasthan,Cash,59,Female,Premium,No Loan
+TXN00146,CUST0259,2025-07-17,Current,Withdrawal,7263.74,30323.06,BR-029,Warangal,Telangana,NEFT,33,Female,Corporate,Rejected
+TXN00147,CUST0206,2025-09-18,Savings,Deposit,59388.61,398474.13,BR-033,Hyderabad,Telangana,Credit Card,56,Female,Retail,Approved
+TXN00148,CUST0168,2025-03-13,Savings,Deposit,107181.98,402963.1,BR-040,Pune,Maharashtra,NEFT,50,Male,Corporate,No Loan
+TXN00149,CUST0009,2025-09-01,Current,Transfer,111028.24,153121.0,BR-024,Chennai,Tamil Nadu,Credit Card,53,Female,Corporate,No Loan
+TXN00150,CUST0297,2025-12-02,Savings,Withdrawal,87763.47,399393.63,BR-037,Madurai,Tamil Nadu,IMPS,65,Male,Corporate,No Loan
+TXN00151,CUST0057,2025-12-25,Current,Deposit,78872.73,361985.5,BR-013,New Delhi,Delhi,Cash,30,Male,Retail,No Loan
+TXN00152,CUST0071,2025-12-28,Current,Withdrawal,23138.97,346797.63,BR-034,Nagpur,Maharashtra,Cash,53,Female,Corporate,No Loan
+TXN00153,CUST0136,2025-12-15,Current,Transfer,56835.3,478559.32,BR-040,Delhi,Delhi,Cash,55,Female,Corporate,No Loan
+TXN00154,CUST0246,2025-06-12,Savings,Withdrawal,83933.95,116309.18,BR-023,Jaipur,Rajasthan,Credit Card,39,Male,Corporate,No Loan
+TXN00155,CUST0178,2025-02-10,Savings,Transfer,101655.03,192948.62,BR-029,Warangal,Telangana,Cash,43,Male,Premium,Approved
+TXN00156,CUST0123,2025-10-28,Savings,Deposit,124278.78,139210.7,BR-016,Warangal,Telangana,NEFT,65,Female,Retail,Approved
+TXN00157,CUST0282,2025-01-03,Savings,Transfer,35309.07,54597.99,BR-011,Aurangabad,Maharashtra,Credit Card,51,Male,Corporate,No Loan
+TXN00158,CUST0274,2025-04-29,Current,Transfer,30318.67,482137.45,BR-048,Howrah,West Bengal,Credit Card,39,Male,Retail,No Loan
+TXN00159,CUST0020,2025-05-29,Current,Deposit,140121.43,22988.23,BR-001,Mumbai,Maharashtra,Cash,52,Male,Corporate,No Loan
+TXN00160,CUST0058,2025-04-09,Current,Withdrawal,68425.19,322449.64,BR-022,Hyderabad,Telangana,NEFT,52,Male,Corporate,No Loan
+TXN00161,CUST0090,2025-04-09,Current,Transfer,38961.1,97168.54,BR-040,Vadodara,Gujarat,IMPS,42,Female,Corporate,No Loan
+TXN00162,CUST0121,2025-07-16,Current,Deposit,60424.57,52215.63,BR-029,Howrah,West Bengal,Debit Card,51,Female,Retail,Approved
+TXN00163,CUST0158,2025-08-27,Current,Transfer,108570.94,10660.69,BR-011,Warangal,Telangana,IMPS,44,Male,Retail,No Loan
+TXN00164,CUST0192,2025-08-21,Savings,Transfer,137461.49,151043.61,BR-027,Howrah,West Bengal,NEFT,35,Male,Retail,No Loan
+TXN00165,CUST0289,2025-02-09,Savings,Deposit,102211.12,299928.16,BR-008,Udaipur,Rajasthan,UPI,54,Female,Corporate,No Loan
+TXN00166,CUST0251,2025-10-26,Savings,Transfer,80730.69,86445.89,BR-006,Aurangabad,Maharashtra,NEFT,49,Male,Corporate,Approved
+TXN00167,CUST0203,2025-01-12,Current,Deposit,77230.55,231115.25,BR-017,Jaipur,Rajasthan,UPI,56,Female,Corporate,No Loan
+TXN00168,CUST0093,2025-07-29,Savings,Deposit,63842.76,351690.51,BR-050,Mumbai,Maharashtra,NEFT,24,Male,Premium,Approved
+TXN00169,CUST0069,2025-10-04,Current,Withdrawal,148932.06,194327.41,BR-042,Vadodara,Gujarat,Cash,45,Male,Corporate,No Loan
+TXN00170,CUST0218,2025-10-06,Savings,Transfer,59262.27,68036.81,BR-035,Chennai,Tamil Nadu,Debit Card,21,Male,Premium,No Loan
+TXN00171,CUST0124,2025-01-09,Savings,Withdrawal,52250.88,141446.62,BR-014,Kolkata,West Bengal,IMPS,28,Male,Corporate,No Loan
+TXN00172,CUST0112,2025-10-04,Savings,Withdrawal,89868.84,353126.7,BR-049,Bengaluru,Karnataka,UPI,36,Male,Premium,No Loan
+TXN00173,CUST0267,2025-03-15,Current,Deposit,122460.05,367101.15,BR-015,Mumbai,Maharashtra,Credit Card,57,Female,Retail,Rejected
+TXN00174,CUST0196,2025-06-26,Current,Deposit,83729.36,297875.23,BR-034,Howrah,West Bengal,IMPS,32,Female,Corporate,No Loan
+TXN00175,CUST0074,2025-12-29,Current,Withdrawal,22808.03,191347.79,BR-030,Madurai,Tamil Nadu,NEFT,51,Male,Retail,Rejected
+TXN00176,CUST0190,2025-08-19,Current,Withdrawal,83814.37,71375.91,BR-006,Aurangabad,Maharashtra,Debit Card,37,Male,Premium,No Loan
+TXN00177,CUST0156,2025-06-20,Current,Withdrawal,101213.95,303446.41,BR-001,New Delhi,Delhi,UPI,33,Male,Premium,Approved
+TXN00178,CUST0165,2025-10-10,Savings,Transfer,149936.02,242065.83,BR-050,New Delhi,Delhi,Debit Card,65,Male,Premium,No Loan
+TXN00179,CUST0164,2025-08-29,Current,Transfer,97483.84,157669.03,BR-014,Warangal,Telangana,Credit Card,53,Female,Premium,Approved
+TXN00180,CUST0214,2025-10-24,Current,Deposit,84597.45,114530.68,BR-019,Coimbatore,Tamil Nadu,Debit Card,22,Female,Corporate,No Loan
+TXN00181,CUST0252,2025-09-08,Current,Deposit,57286.05,417514.54,BR-030,Ahmedabad,Gujarat,Cash,56,Female,Premium,No Loan
+TXN00182,CUST0025,2025-02-08,Current,Deposit,21423.8,275540.43,BR-049,Vadodara,Gujarat,Debit Card,55,Male,Corporate,Approved
+TXN00183,CUST0248,2025-11-23,Savings,Transfer,35099.29,355048.93,BR-043,Nagpur,Maharashtra,UPI,34,Female,Premium,Approved
+TXN00184,CUST0221,2025-12-24,Savings,Transfer,82970.71,10866.23,BR-012,Jaipur,Rajasthan,NEFT,38,Female,Retail,No Loan
+TXN00185,CUST0236,2025-07-27,Savings,Deposit,29193.84,265595.71,BR-037,Bengaluru,Karnataka,Credit Card,38,Female,Retail,No Loan
+TXN00186,CUST0244,2025-10-10,Current,Transfer,124295.28,44905.37,BR-004,New Delhi,Delhi,IMPS,23,Male,Premium,No Loan
+TXN00187,CUST0109,2025-04-28,Savings,Withdrawal,126876.8,324229.08,BR-045,Mumbai,Maharashtra,Credit Card,57,Male,Corporate,No Loan
+TXN00188,CUST0009,2025-06-11,Savings,Deposit,102822.1,143784.64,BR-014,Jodhpur,Rajasthan,NEFT,57,Male,Retail,No Loan
+TXN00189,CUST0041,2025-03-13,Current,Deposit,45241.89,284159.31,BR-033,Vadodara,Gujarat,NEFT,45,Female,Premium,No Loan
+TXN00190,CUST0231,2025-05-20,Savings,Withdrawal,35205.53,42629.03,BR-032,Chennai,Tamil Nadu,NEFT,60,Female,Premium,Approved
+TXN00191,CUST0138,2025-02-12,Current,Withdrawal,28267.81,295008.18,BR-010,Delhi,Delhi,Cash,26,Female,Retail,No Loan
+TXN00192,CUST0096,2025-02-14,Current,Withdrawal,54424.68,50302.61,BR-028,Kolkata,West Bengal,Credit Card,49,Female,Premium,Approved
+TXN00193,CUST0199,2025-07-31,Current,Deposit,4426.15,180187.57,BR-050,Udaipur,Rajasthan,UPI,59,Female,Premium,Approved
+TXN00194,CUST0033,2025-03-16,Savings,Transfer,78405.13,344231.42,BR-011,Mangaluru,Karnataka,Debit Card,29,Female,Premium,Rejected
+TXN00195,CUST0055,2025-08-23,Current,Withdrawal,72892.58,43076.07,BR-009,Howrah,West Bengal,Credit Card,36,Female,Corporate,No Loan
+TXN00196,CUST0070,2025-11-30,Current,Withdrawal,126321.2,193045.53,BR-020,Hyderabad,Telangana,Credit Card,49,Female,Premium,No Loan
+TXN00197,CUST0193,2025-06-16,Savings,Withdrawal,47470.4,482464.44,BR-018,Madurai,Tamil Nadu,Credit Card,39,Female,Corporate,No Loan
+TXN00198,CUST0108,2025-12-29,Savings,Transfer,30370.11,498646.14,BR-029,Howrah,West Bengal,Debit Card,64,Male,Corporate,No Loan
+TXN00199,CUST0038,2025-07-13,Current,Transfer,75145.83,318501.34,BR-029,Hyderabad,Telangana,Debit Card,37,Male,Corporate,No Loan
+TXN00200,CUST0044,2025-10-02,Current,Transfer,76238.59,460594.13,BR-007,Udaipur,Rajasthan,IMPS,47,Male,Premium,No Loan
+TXN00201,CUST0055,2025-08-09,Savings,Transfer,92095.35,283794.04,BR-001,Delhi,Delhi,IMPS,64,Female,Premium,No Loan
+TXN00202,CUST0257,2025-08-26,Savings,Transfer,112154.53,281206.74,BR-010,Mysuru,Karnataka,IMPS,57,Male,Premium,No Loan
+TXN00203,CUST0106,2025-08-22,Current,Deposit,44667.12,460671.03,BR-034,Chennai,Tamil Nadu,UPI,28,Male,Premium,Rejected
+TXN00204,CUST0012,2025-02-28,Current,Deposit,66005.81,349897.82,BR-022,Jodhpur,Rajasthan,Credit Card,25,Female,Retail,No Loan
+TXN00205,CUST0095,2025-07-27,Savings,Transfer,36964.99,91354.35,BR-012,Mangaluru,Karnataka,Debit Card,42,Female,Premium,Approved
+TXN00206,CUST0143,2025-04-16,Savings,Transfer,92308.99,102675.6,BR-049,Howrah,West Bengal,NEFT,48,Female,Retail,No Loan
+TXN00207,CUST0161,2025-09-28,Savings,Transfer,28450.5,166362.53,BR-039,Mangaluru,Karnataka,Cash,28,Female,Corporate,No Loan
+TXN00208,CUST0069,2025-12-11,Savings,Withdrawal,53121.75,231640.99,BR-021,Howrah,West Bengal,Debit Card,64,Female,Corporate,No Loan
+TXN00209,CUST0217,2025-07-16,Current,Deposit,27865.16,348251.09,BR-012,Bengaluru,Karnataka,NEFT,45,Female,Corporate,Approved
+TXN00210,CUST0005,2025-07-03,Savings,Transfer,25446.4,147973.21,BR-032,Udaipur,Rajasthan,Debit Card,41,Female,Corporate,Approved
+TXN00211,CUST0086,2025-09-08,Current,Transfer,76062.98,250010.07,BR-006,Ahmedabad,Gujarat,IMPS,52,Female,Corporate,No Loan
+TXN00212,CUST0059,2025-10-21,Current,Deposit,41590.51,271116.27,BR-018,Mumbai,Maharashtra,Debit Card,50,Female,Corporate,No Loan
+TXN00213,CUST0231,2025-01-17,Savings,Transfer,66484.3,113178.26,BR-017,Madurai,Tamil Nadu,Cash,27,Male,Premium,No Loan
+TXN00214,CUST0085,2025-08-08,Current,Deposit,116456.93,122288.3,BR-040,Chennai,Tamil Nadu,IMPS,58,Female,Corporate,No Loan
+TXN00215,CUST0149,2025-05-30,Savings,Deposit,85726.11,268478.99,BR-037,Ahmedabad,Gujarat,NEFT,55,Male,Premium,No Loan
+TXN00216,CUST0127,2025-06-14,Savings,Withdrawal,137855.92,496280.68,BR-049,Hyderabad,Telangana,IMPS,29,Male,Retail,Approved
+TXN00217,CUST0207,2025-02-17,Savings,Transfer,95044.1,315767.35,BR-033,Howrah,West Bengal,Cash,49,Male,Corporate,No Loan
+TXN00218,CUST0033,2025-07-03,Current,Withdrawal,49429.75,6224.18,BR-035,Warangal,Telangana,IMPS,26,Female,Corporate,No Loan
+TXN00219,CUST0025,2025-06-25,Current,Deposit,74459.88,164818.25,BR-003,Kolkata,West Bengal,Credit Card,42,Male,Corporate,No Loan
+TXN00220,CUST0068,2025-12-19,Current,Deposit,19073.46,429537.54,BR-042,Mangaluru,Karnataka,Cash,50,Male,Premium,Approved
+TXN00221,CUST0120,2025-06-06,Current,Deposit,98360.9,128942.69,BR-028,Hyderabad,Telangana,Credit Card,63,Male,Retail,No Loan
+TXN00222,CUST0062,2025-06-25,Savings,Deposit,32406.47,43579.67,BR-028,Mangaluru,Karnataka,NEFT,35,Female,Retail,Approved
+TXN00223,CUST0196,2025-03-12,Savings,Deposit,57768.95,366727.87,BR-050,Surat,Gujarat,UPI,27,Female,Premium,No Loan
+TXN00224,CUST0078,2025-11-18,Savings,Deposit,79810.99,9195.0,BR-027,Vadodara,Gujarat,IMPS,31,Female,Premium,No Loan
+TXN00225,CUST0127,2025-03-13,Savings,Deposit,21431.96,65962.83,BR-018,Jaipur,Rajasthan,IMPS,45,Female,Premium,Rejected
+TXN00226,CUST0028,2025-11-27,Current,Transfer,4510.25,424299.66,BR-016,Bengaluru,Karnataka,Credit Card,34,Male,Corporate,No Loan
+TXN00227,CUST0216,2025-10-19,Savings,Deposit,75187.59,298995.24,BR-024,Jodhpur,Rajasthan,NEFT,21,Female,Premium,Approved
+TXN00228,CUST0257,2025-11-18,Savings,Deposit,88310.84,11827.75,BR-050,Surat,Gujarat,Debit Card,23,Male,Premium,No Loan
+TXN00229,CUST0080,2025-04-15,Current,Deposit,96260.32,271139.4,BR-035,Howrah,West Bengal,Debit Card,38,Male,Premium,Approved
+TXN00230,CUST0233,2025-03-01,Savings,Withdrawal,104952.04,366329.4,BR-040,Coimbatore,Tamil Nadu,Debit Card,24,Male,Retail,No Loan
+TXN00231,CUST0086,2025-05-13,Savings,Deposit,2393.41,72919.84,BR-024,Nashik,Maharashtra,UPI,31,Female,Premium,No Loan
+TXN00232,CUST0296,2025-05-15,Current,Transfer,133019.01,386857.99,BR-041,Vadodara,Gujarat,UPI,42,Female,Premium,No Loan
+TXN00233,CUST0294,2025-02-22,Current,Transfer,54338.52,252306.95,BR-044,Mysuru,Karnataka,NEFT,31,Female,Retail,Rejected
+TXN00234,CUST0019,2025-04-02,Savings,Deposit,128874.01,11082.6,BR-036,Bengaluru,Karnataka,UPI,51,Female,Premium,No Loan
+TXN00235,CUST0092,2025-01-27,Current,Deposit,62730.36,361542.52,BR-015,Kolkata,West Bengal,Credit Card,25,Female,Retail,No Loan
+TXN00236,CUST0103,2025-07-08,Savings,Withdrawal,129971.82,387896.1,BR-019,Nagpur,Maharashtra,Credit Card,41,Male,Corporate,No Loan
+TXN00237,CUST0013,2025-07-29,Current,Withdrawal,88957.79,249213.53,BR-015,Hyderabad,Telangana,Debit Card,55,Male,Retail,Approved
+TXN00238,CUST0215,2025-05-02,Savings,Withdrawal,718.58,330365.41,BR-032,Madurai,Tamil Nadu,IMPS,40,Male,Retail,No Loan
+TXN00239,CUST0298,2025-02-13,Current,Deposit,7063.09,119578.92,BR-007,Mumbai,Maharashtra,NEFT,47,Female,Premium,No Loan
+TXN00240,CUST0202,2025-06-11,Current,Deposit,88988.42,35830.02,BR-045,Vadodara,Gujarat,IMPS,29,Male,Premium,Rejected
+TXN00241,CUST0239,2025-08-19,Current,Withdrawal,35424.88,472059.57,BR-021,Coimbatore,Tamil Nadu,Debit Card,58,Male,Retail,Approved
+TXN00242,CUST0021,2025-12-27,Current,Deposit,68061.6,234356.56,BR-014,Kolkata,West Bengal,UPI,26,Male,Corporate,Rejected
+TXN00243,CUST0016,2025-03-31,Savings,Transfer,37608.71,181092.66,BR-026,Chennai,Tamil Nadu,NEFT,24,Female,Premium,No Loan
+TXN00244,CUST0067,2025-04-24,Savings,Deposit,69575.47,402928.89,BR-013,Udaipur,Rajasthan,Debit Card,28,Male,Retail,No Loan
+TXN00245,CUST0066,2025-08-16,Savings,Transfer,88124.75,459127.15,BR-006,Howrah,West Bengal,UPI,22,Male,Retail,No Loan
+TXN00246,CUST0089,2025-08-07,Savings,Withdrawal,8070.34,462445.2,BR-023,Chennai,Tamil Nadu,Cash,46,Female,Retail,No Loan
+TXN00247,CUST0282,2025-07-30,Current,Withdrawal,67178.71,78572.55,BR-031,New Delhi,Delhi,NEFT,60,Male,Corporate,Rejected
+TXN00248,CUST0246,2025-07-03,Current,Withdrawal,21016.78,103731.61,BR-035,Pune,Maharashtra,NEFT,36,Male,Premium,No Loan
+TXN00249,CUST0272,2025-08-30,Current,Withdrawal,40930.13,17901.17,BR-023,Jodhpur,Rajasthan,NEFT,35,Male,Premium,Approved
+TXN00250,CUST0182,2025-07-18,Savings,Deposit,98701.23,136930.87,BR-012,New Delhi,Delhi,IMPS,24,Male,Corporate,No Loan
+TXN00251,CUST0097,2025-10-16,Current,Transfer,104795.17,457420.1,BR-032,Ahmedabad,Gujarat,UPI,65,Female,Corporate,No Loan
+TXN00252,CUST0104,2025-11-11,Current,Deposit,13993.48,120148.56,BR-009,Hyderabad,Telangana,Debit Card,22,Female,Retail,Rejected
+TXN00253,CUST0192,2025-02-07,Savings,Withdrawal,9403.62,78117.45,BR-046,Madurai,Tamil Nadu,IMPS,30,Male,Corporate,No Loan
+TXN00254,CUST0288,2025-12-29,Current,Withdrawal,48729.18,488051.03,BR-045,Kolkata,West Bengal,IMPS,48,Female,Corporate,Rejected
+TXN00255,CUST0291,2025-07-20,Savings,Withdrawal,46370.07,345806.73,BR-003,Chennai,Tamil Nadu,Debit Card,32,Male,Corporate,No Loan
+TXN00256,CUST0164,2025-06-27,Current,Transfer,33523.84,284947.37,BR-011,Vadodara,Gujarat,Cash,30,Female,Corporate,Approved
+TXN00257,CUST0025,2025-01-01,Current,Withdrawal,2203.65,108793.72,BR-025,Mangaluru,Karnataka,IMPS,25,Female,Premium,No Loan
+TXN00258,CUST0116,2025-10-23,Current,Deposit,132740.52,249075.59,BR-011,Udaipur,Rajasthan,Cash,43,Female,Retail,No Loan
+TXN00259,CUST0039,2025-03-24,Savings,Withdrawal,3501.66,134258.22,BR-036,Jaipur,Rajasthan,UPI,25,Female,Retail,No Loan
+TXN00260,CUST0106,2025-06-19,Current,Transfer,5133.48,471508.92,BR-013,Mysuru,Karnataka,Debit Card,59,Female,Retail,Approved
+TXN00261,CUST0219,2025-01-02,Current,Withdrawal,36013.47,29569.54,BR-006,Howrah,West Bengal,NEFT,56,Female,Retail,Approved
+TXN00262,CUST0242,2025-07-23,Savings,Deposit,4347.49,89561.93,BR-032,Warangal,Telangana,Credit Card,26,Female,Retail,Rejected
+TXN00263,CUST0116,2025-05-15,Current,Deposit,55967.57,193815.37,BR-018,Hyderabad,Telangana,Debit Card,49,Male,Premium,No Loan
+TXN00264,CUST0268,2025-07-18,Savings,Deposit,100387.11,405049.18,BR-027,Mumbai,Maharashtra,Cash,58,Male,Corporate,Approved
+TXN00265,CUST0089,2025-08-18,Savings,Withdrawal,45178.39,200428.16,BR-011,Udaipur,Rajasthan,IMPS,23,Male,Retail,No Loan
+TXN00266,CUST0045,2025-02-04,Savings,Deposit,63794.55,494198.57,BR-025,New Delhi,Delhi,Cash,33,Male,Corporate,Rejected
+TXN00267,CUST0291,2025-03-17,Current,Transfer,68994.5,437365.8,BR-038,Howrah,West Bengal,IMPS,60,Female,Retail,No Loan
+TXN00268,CUST0243,2025-11-08,Savings,Withdrawal,130187.55,440667.21,BR-003,Bengaluru,Karnataka,Cash,37,Female,Corporate,No Loan
+TXN00269,CUST0244,2025-01-26,Current,Deposit,92927.55,342002.37,BR-018,Surat,Gujarat,Cash,23,Female,Premium,No Loan
+TXN00270,CUST0165,2025-08-15,Current,Withdrawal,46986.92,422209.05,BR-018,Chennai,Tamil Nadu,IMPS,64,Male,Retail,Approved
+TXN00271,CUST0034,2025-03-23,Savings,Withdrawal,32102.88,412864.87,BR-020,Kolkata,West Bengal,IMPS,52,Female,Retail,No Loan
+TXN00272,CUST0102,2025-07-04,Savings,Deposit,29318.14,417300.32,BR-018,Kolkata,West Bengal,UPI,36,Male,Premium,Approved
+TXN00273,CUST0283,2025-08-31,Current,Transfer,138499.5,342181.31,BR-023,Coimbatore,Tamil Nadu,Debit Card,44,Female,Corporate,No Loan
+TXN00274,CUST0114,2025-04-20,Current,Transfer,124715.1,49744.0,BR-042,Chennai,Tamil Nadu,UPI,45,Male,Retail,No Loan
+TXN00275,CUST0005,2025-11-04,Current,Transfer,61721.33,14925.92,BR-015,New Delhi,Delhi,IMPS,21,Female,Retail,No Loan
+TXN00276,CUST0204,2025-09-24,Current,Withdrawal,134374.7,426535.16,BR-038,Warangal,Telangana,Cash,37,Male,Premium,Rejected
+TXN00277,CUST0167,2025-05-22,Current,Transfer,97277.65,306479.8,BR-018,Bengaluru,Karnataka,Credit Card,64,Male,Premium,Approved
+TXN00278,CUST0014,2025-03-13,Savings,Deposit,77835.39,123949.53,BR-042,Warangal,Telangana,UPI,59,Female,Corporate,Rejected
+TXN00279,CUST0274,2025-04-24,Current,Withdrawal,60987.53,369682.39,BR-041,Jodhpur,Rajasthan,NEFT,57,Male,Premium,No Loan
+TXN00280,CUST0133,2025-03-07,Current,Transfer,45379.13,89143.4,BR-047,Udaipur,Rajasthan,IMPS,56,Male,Premium,Approved
+TXN00281,CUST0151,2025-10-27,Current,Transfer,13850.32,180865.28,BR-030,Vadodara,Gujarat,IMPS,40,Female,Premium,No Loan
+TXN00282,CUST0196,2025-12-15,Savings,Transfer,87744.41,472428.99,BR-034,Mysuru,Karnataka,UPI,51,Male,Corporate,Approved
+TXN00283,CUST0042,2025-04-03,Savings,Deposit,21036.11,104146.81,BR-032,Warangal,Telangana,Cash,57,Female,Retail,Rejected
+TXN00284,CUST0046,2025-09-08,Savings,Withdrawal,95357.6,7333.18,BR-009,Madurai,Tamil Nadu,Credit Card,34,Male,Corporate,No Loan
+TXN00285,CUST0165,2025-01-08,Current,Withdrawal,144816.51,194741.63,BR-049,Howrah,West Bengal,UPI,55,Male,Corporate,No Loan
+TXN00286,CUST0157,2025-10-29,Savings,Transfer,110173.68,117001.53,BR-011,New Delhi,Delhi,Credit Card,40,Male,Retail,No Loan
+TXN00287,CUST0251,2025-06-25,Current,Withdrawal,68660.98,262542.76,BR-023,Bengaluru,Karnataka,NEFT,42,Female,Corporate,No Loan
+TXN00288,CUST0188,2025-03-05,Current,Deposit,34648.53,364948.57,BR-046,New Delhi,Delhi,Debit Card,34,Male,Corporate,No Loan
+TXN00289,CUST0060,2025-01-25,Current,Transfer,93658.65,298992.41,BR-027,Nagpur,Maharashtra,UPI,63,Male,Corporate,No Loan
+TXN00290,CUST0267,2025-02-21,Savings,Transfer,38284.37,352424.77,BR-018,Jodhpur,Rajasthan,Debit Card,65,Male,Premium,No Loan
+TXN00291,CUST0268,2025-05-15,Savings,Transfer,107955.55,63278.61,BR-013,Surat,Gujarat,UPI,27,Female,Retail,No Loan
+TXN00292,CUST0046,2025-01-07,Current,Withdrawal,24475.85,276328.69,BR-008,Madurai,Tamil Nadu,Debit Card,65,Female,Premium,Approved
+TXN00293,CUST0136,2025-06-01,Savings,Transfer,11719.71,363170.24,BR-030,Jaipur,Rajasthan,Credit Card,62,Male,Premium,No Loan
+TXN00294,CUST0005,2025-01-24,Savings,Deposit,127911.18,183306.26,BR-009,Pune,Maharashtra,IMPS,41,Female,Corporate,Approved
+TXN00295,CUST0205,2025-07-25,Current,Withdrawal,143285.83,137813.15,BR-030,Surat,Gujarat,IMPS,26,Female,Premium,Approved
+TXN00296,CUST0248,2025-10-30,Current,Withdrawal,97502.55,399470.23,BR-037,Warangal,Telangana,UPI,29,Male,Retail,Approved
+TXN00297,CUST0226,2025-07-30,Current,Withdrawal,91898.08,431975.01,BR-003,Jaipur,Rajasthan,IMPS,29,Female,Premium,Approved
+TXN00298,CUST0268,2025-09-23,Current,Deposit,105832.94,340574.82,BR-045,Mysuru,Karnataka,IMPS,57,Male,Corporate,No Loan
+TXN00299,CUST0259,2025-03-22,Savings,Withdrawal,52189.55,339766.31,BR-031,Mysuru,Karnataka,Cash,30,Male,Retail,No Loan
+TXN00300,CUST0121,2025-07-26,Savings,Withdrawal,48434.76,168792.95,BR-006,Jaipur,Rajasthan,Credit Card,24,Male,Corporate,No Loan
+TXN00301,CUST0286,2025-01-19,Current,Deposit,128560.09,226298.72,BR-036,Jodhpur,Rajasthan,UPI,52,Male,Retail,No Loan
+TXN00302,CUST0170,2025-08-21,Current,Transfer,84568.72,329025.01,BR-036,Pune,Maharashtra,Cash,42,Female,Retail,No Loan
+TXN00303,CUST0150,2025-11-21,Current,Transfer,68153.6,53231.33,BR-036,Udaipur,Rajasthan,IMPS,35,Male,Premium,No Loan
+TXN00304,CUST0062,2025-04-07,Savings,Deposit,134583.13,248748.96,BR-026,Madurai,Tamil Nadu,IMPS,47,Male,Premium,No Loan
+TXN00305,CUST0259,2025-10-29,Savings,Transfer,51021.07,379788.92,BR-009,Delhi,Delhi,UPI,61,Male,Premium,No Loan
+TXN00306,CUST0054,2025-03-07,Savings,Transfer,140328.59,420213.97,BR-025,Jaipur,Rajasthan,Cash,53,Male,Corporate,No Loan
+TXN00307,CUST0069,2025-08-20,Current,Withdrawal,146935.36,458375.57,BR-009,Madurai,Tamil Nadu,Debit Card,38,Female,Premium,No Loan
+TXN00308,CUST0177,2025-12-18,Current,Transfer,110654.39,279022.87,BR-044,Howrah,West Bengal,Debit Card,33,Male,Corporate,No Loan
+TXN00309,CUST0214,2025-10-20,Savings,Transfer,81602.48,320254.33,BR-044,Vadodara,Gujarat,IMPS,28,Female,Corporate,No Loan
+TXN00310,CUST0147,2025-03-24,Savings,Transfer,16417.33,193530.81,BR-044,Warangal,Telangana,UPI,63,Male,Retail,Rejected
+TXN00311,CUST0288,2025-12-12,Savings,Transfer,117761.43,105980.45,BR-015,Hyderabad,Telangana,NEFT,23,Female,Premium,Approved
+TXN00312,CUST0104,2025-05-09,Current,Transfer,99841.79,463609.98,BR-040,Kolkata,West Bengal,Cash,47,Female,Corporate,Approved
+TXN00313,CUST0039,2025-12-16,Current,Transfer,82218.96,303676.55,BR-012,Jaipur,Rajasthan,IMPS,33,Female,Premium,Approved
+TXN00314,CUST0170,2025-01-03,Savings,Withdrawal,6574.82,143160.56,BR-030,Vadodara,Gujarat,Credit Card,29,Male,Corporate,No Loan
+TXN00315,CUST0184,2025-10-09,Savings,Withdrawal,89733.61,387962.17,BR-005,Ahmedabad,Gujarat,IMPS,60,Female,Premium,No Loan
+TXN00316,CUST0170,2025-04-20,Savings,Deposit,78330.64,394197.83,BR-022,Madurai,Tamil Nadu,Debit Card,47,Female,Retail,Rejected
+TXN00317,CUST0125,2025-05-04,Savings,Transfer,79809.58,498332.39,BR-003,Coimbatore,Tamil Nadu,IMPS,21,Male,Corporate,Rejected
+TXN00318,CUST0250,2025-08-17,Savings,Withdrawal,38860.29,363367.93,BR-003,Coimbatore,Tamil Nadu,UPI,54,Female,Corporate,No Loan
+TXN00319,CUST0110,2025-12-10,Current,Transfer,12810.64,52498.43,BR-044,Hyderabad,Telangana,NEFT,55,Male,Corporate,Approved
+TXN00320,CUST0236,2025-01-13,Savings,Transfer,124397.93,439925.43,BR-046,Kolkata,West Bengal,IMPS,48,Male,Corporate,No Loan
+TXN00321,CUST0208,2025-08-19,Savings,Deposit,8613.08,398136.32,BR-028,Chennai,Tamil Nadu,NEFT,25,Male,Premium,No Loan
+TXN00322,CUST0038,2025-12-25,Current,Transfer,18186.71,7919.97,BR-023,Chennai,Tamil Nadu,IMPS,60,Male,Corporate,No Loan
+TXN00323,CUST0274,2025-03-22,Current,Transfer,13432.53,383810.75,BR-015,Mysuru,Karnataka,Cash,45,Female,Corporate,Approved
+TXN00324,CUST0073,2025-10-12,Current,Transfer,44599.28,318852.61,BR-008,Vadodara,Gujarat,Credit Card,64,Female,Retail,No Loan
+TXN00325,CUST0073,2025-09-20,Current,Transfer,82355.05,47137.79,BR-011,Pune,Maharashtra,Debit Card,43,Male,Premium,No Loan
+TXN00326,CUST0035,2025-05-29,Current,Deposit,17636.07,337134.07,BR-017,Ahmedabad,Gujarat,NEFT,24,Female,Corporate,No Loan
+TXN00327,CUST0163,2025-04-10,Current,Withdrawal,53892.18,337291.31,BR-032,Bengaluru,Karnataka,Debit Card,27,Female,Corporate,Approved
+TXN00328,CUST0114,2025-05-07,Current,Transfer,87833.4,284948.24,BR-046,Jodhpur,Rajasthan,Credit Card,41,Female,Retail,Approved
+TXN00329,CUST0283,2025-09-07,Current,Deposit,102097.24,169123.66,BR-007,Howrah,West Bengal,Cash,50,Female,Premium,No Loan
+TXN00330,CUST0039,2025-02-09,Savings,Withdrawal,128877.69,74300.83,BR-002,Vadodara,Gujarat,NEFT,33,Female,Corporate,No Loan
+TXN00331,CUST0201,2025-07-07,Current,Transfer,32307.72,23144.87,BR-015,Aurangabad,Maharashtra,Credit Card,55,Female,Corporate,No Loan
+TXN00332,CUST0072,2025-09-21,Current,Transfer,76806.59,201408.65,BR-029,Hyderabad,Telangana,NEFT,21,Male,Corporate,No Loan
+TXN00333,CUST0120,2025-07-09,Savings,Transfer,109934.67,469891.75,BR-003,Ahmedabad,Gujarat,UPI,35,Female,Retail,Approved
+TXN00334,CUST0141,2025-09-24,Current,Withdrawal,137726.34,441368.23,BR-048,Delhi,Delhi,UPI,62,Female,Retail,No Loan
+TXN00335,CUST0265,2025-04-25,Current,Transfer,57088.52,295901.02,BR-026,Hyderabad,Telangana,UPI,54,Female,Premium,No Loan
+TXN00336,CUST0144,2025-11-26,Current,Withdrawal,133132.21,8265.85,BR-014,Coimbatore,Tamil Nadu,Debit Card,49,Male,Retail,Approved
+TXN00337,CUST0246,2025-09-04,Savings,Withdrawal,90502.03,409392.76,BR-031,Ahmedabad,Gujarat,IMPS,35,Female,Premium,No Loan
+TXN00338,CUST0076,2025-10-21,Current,Deposit,36928.71,68303.13,BR-004,New Delhi,Delhi,NEFT,31,Male,Corporate,No Loan
+TXN00339,CUST0044,2025-05-26,Savings,Transfer,143756.63,301681.97,BR-014,Surat,Gujarat,NEFT,61,Male,Corporate,No Loan
+TXN00340,CUST0086,2025-05-16,Current,Withdrawal,25999.73,416029.97,BR-047,Udaipur,Rajasthan,NEFT,30,Male,Corporate,No Loan
+TXN00341,CUST0244,2025-04-01,Savings,Deposit,57042.6,70445.53,BR-040,Coimbatore,Tamil Nadu,UPI,33,Female,Retail,No Loan
+TXN00342,CUST0216,2025-09-25,Savings,Deposit,72595.02,69512.78,BR-024,Aurangabad,Maharashtra,NEFT,55,Male,Corporate,No Loan
+TXN00343,CUST0120,2025-09-02,Current,Deposit,140794.03,243651.11,BR-006,Aurangabad,Maharashtra,Cash,43,Male,Premium,Approved
+TXN00344,CUST0106,2025-12-02,Current,Deposit,1317.68,373104.61,BR-045,Warangal,Telangana,UPI,57,Male,Corporate,Approved
+TXN00345,CUST0204,2025-05-22,Current,Deposit,23639.4,327530.09,BR-049,Coimbatore,Tamil Nadu,Credit Card,37,Female,Corporate,No Loan
+TXN00346,CUST0061,2025-03-12,Current,Deposit,55846.84,279681.12,BR-048,Delhi,Delhi,Credit Card,40,Female,Corporate,No Loan
+TXN00347,CUST0003,2025-11-22,Savings,Deposit,32561.49,203277.65,BR-006,Delhi,Delhi,Credit Card,56,Male,Retail,No Loan
+TXN00348,CUST0267,2025-07-25,Current,Deposit,10080.03,114776.27,BR-019,Surat,Gujarat,UPI,59,Male,Corporate,No Loan
+TXN00349,CUST0265,2025-09-19,Current,Withdrawal,2101.2,426030.98,BR-045,Mumbai,Maharashtra,NEFT,39,Male,Retail,No Loan
+TXN00350,CUST0208,2025-07-22,Savings,Withdrawal,36268.87,5142.2,BR-038,New Delhi,Delhi,Debit Card,26,Female,Premium,No Loan
+TXN00351,CUST0116,2025-05-22,Savings,Deposit,82664.1,364438.66,BR-039,New Delhi,Delhi,NEFT,58,Female,Premium,No Loan
+TXN00352,CUST0263,2025-03-01,Current,Transfer,1195.39,91642.22,BR-017,Delhi,Delhi,NEFT,27,Male,Corporate,Rejected
+TXN00353,CUST0060,2025-09-04,Current,Transfer,72802.67,125420.26,BR-017,Warangal,Telangana,Credit Card,50,Female,Corporate,No Loan
+TXN00354,CUST0148,2025-05-08,Savings,Transfer,105325.83,401079.89,BR-006,Mysuru,Karnataka,Cash,43,Male,Corporate,No Loan
+TXN00355,CUST0098,2025-12-16,Savings,Transfer,139743.74,240894.95,BR-032,Howrah,West Bengal,Credit Card,34,Female,Retail,No Loan
+TXN00356,CUST0041,2025-03-03,Savings,Withdrawal,31413.41,105369.45,BR-044,New Delhi,Delhi,Debit Card,60,Female,Retail,No Loan
+TXN00357,CUST0141,2025-10-22,Savings,Transfer,143719.97,424765.24,BR-032,Udaipur,Rajasthan,Credit Card,60,Female,Premium,No Loan
+TXN00358,CUST0258,2025-01-17,Current,Withdrawal,33702.87,290449.27,BR-023,Vadodara,Gujarat,UPI,54,Female,Premium,No Loan
+TXN00359,CUST0052,2025-10-25,Current,Deposit,104887.56,232734.94,BR-021,Kolkata,West Bengal,IMPS,21,Male,Corporate,Approved
+TXN00360,CUST0108,2025-08-06,Current,Deposit,82510.23,122383.88,BR-027,Madurai,Tamil Nadu,Cash,60,Female,Premium,Approved
+TXN00361,CUST0285,2025-05-01,Current,Withdrawal,67883.98,287847.81,BR-028,Coimbatore,Tamil Nadu,NEFT,64,Male,Retail,No Loan
+TXN00362,CUST0265,2025-11-19,Savings,Transfer,22857.43,403805.84,BR-035,Kolkata,West Bengal,Debit Card,47,Female,Retail,No Loan
+TXN00363,CUST0244,2025-05-11,Current,Withdrawal,84539.7,286078.09,BR-041,Coimbatore,Tamil Nadu,Cash,27,Male,Retail,Approved
+TXN00364,CUST0102,2025-12-14,Current,Withdrawal,54463.82,282373.27,BR-037,Mysuru,Karnataka,Credit Card,43,Male,Premium,Approved
+TXN00365,CUST0075,2025-08-26,Current,Withdrawal,101142.33,246309.4,BR-011,Surat,Gujarat,IMPS,49,Male,Premium,No Loan
+TXN00366,CUST0203,2025-11-27,Current,Deposit,12327.23,175094.62,BR-018,Coimbatore,Tamil Nadu,Credit Card,41,Female,Corporate,Rejected
+TXN00367,CUST0108,2025-02-10,Current,Withdrawal,25514.06,427834.86,BR-011,Jodhpur,Rajasthan,Debit Card,36,Female,Corporate,No Loan
+TXN00368,CUST0054,2025-02-12,Savings,Deposit,140550.65,239226.97,BR-017,Kolkata,West Bengal,UPI,22,Female,Corporate,No Loan
+TXN00369,CUST0015,2025-03-29,Current,Withdrawal,34788.72,370108.65,BR-003,Ahmedabad,Gujarat,Cash,61,Male,Retail,No Loan
+TXN00370,CUST0277,2025-12-24,Current,Withdrawal,146259.74,272589.16,BR-012,Coimbatore,Tamil Nadu,Credit Card,56,Female,Retail,No Loan
+TXN00371,CUST0212,2025-07-07,Current,Transfer,96148.08,269223.14,BR-017,Udaipur,Rajasthan,Credit Card,51,Male,Retail,No Loan
+TXN00372,CUST0252,2025-12-19,Savings,Deposit,78735.78,380355.26,BR-049,Surat,Gujarat,Debit Card,43,Female,Premium,No Loan
+TXN00373,CUST0224,2025-10-15,Savings,Withdrawal,119795.73,300516.86,BR-026,Jodhpur,Rajasthan,UPI,56,Female,Retail,No Loan
+TXN00374,CUST0138,2025-09-30,Current,Withdrawal,33478.57,44208.82,BR-027,New Delhi,Delhi,IMPS,36,Female,Premium,No Loan
+TXN00375,CUST0165,2025-04-07,Savings,Deposit,43794.5,320261.89,BR-002,New Delhi,Delhi,NEFT,49,Female,Corporate,No Loan
+TXN00376,CUST0253,2025-01-08,Savings,Deposit,145863.72,144646.7,BR-014,Ahmedabad,Gujarat,Debit Card,49,Male,Retail,Approved
+TXN00377,CUST0037,2025-07-20,Current,Withdrawal,149695.54,234523.81,BR-035,Coimbatore,Tamil Nadu,UPI,42,Male,Retail,Approved
+TXN00378,CUST0102,2025-01-18,Savings,Withdrawal,122678.98,414984.76,BR-030,Jaipur,Rajasthan,UPI,36,Female,Premium,Approved
+TXN00379,CUST0063,2025-09-24,Savings,Withdrawal,58673.88,480800.88,BR-017,Mangaluru,Karnataka,Credit Card,31,Male,Corporate,No Loan
+TXN00380,CUST0008,2025-06-16,Current,Deposit,54383.79,30783.32,BR-011,Udaipur,Rajasthan,IMPS,34,Male,Retail,No Loan
+TXN00381,CUST0081,2025-05-08,Current,Deposit,1835.01,25786.72,BR-032,Hyderabad,Telangana,IMPS,51,Male,Premium,No Loan
+TXN00382,CUST0286,2025-06-12,Current,Transfer,9477.82,180981.25,BR-042,Mangaluru,Karnataka,Debit Card,65,Male,Retail,No Loan
+TXN00383,CUST0151,2025-10-14,Savings,Deposit,103542.87,182292.91,BR-035,Coimbatore,Tamil Nadu,Debit Card,37,Male,Premium,No Loan
+TXN00384,CUST0152,2025-08-19,Savings,Transfer,52475.87,367539.19,BR-017,Jaipur,Rajasthan,Credit Card,59,Male,Retail,No Loan
+TXN00385,CUST0276,2025-02-02,Savings,Transfer,76140.68,368160.58,BR-025,Coimbatore,Tamil Nadu,UPI,60,Female,Corporate,Approved
+TXN00386,CUST0067,2025-01-23,Savings,Transfer,42827.8,207853.24,BR-012,Delhi,Delhi,Credit Card,28,Male,Corporate,No Loan
+TXN00387,CUST0132,2025-10-30,Savings,Withdrawal,29146.69,20749.49,BR-004,Mumbai,Maharashtra,IMPS,45,Female,Corporate,No Loan
+TXN00388,CUST0213,2025-10-13,Savings,Deposit,139566.55,108325.36,BR-024,Chennai,Tamil Nadu,Cash,26,Female,Corporate,Approved
+TXN00389,CUST0273,2025-04-29,Current,Transfer,6577.65,39842.12,BR-025,Aurangabad,Maharashtra,Credit Card,25,Male,Corporate,Approved
+TXN00390,CUST0296,2025-11-23,Savings,Transfer,93986.1,93554.46,BR-023,New Delhi,Delhi,IMPS,56,Female,Corporate,Approved
+TXN00391,CUST0227,2025-11-04,Current,Deposit,25437.99,94296.29,BR-023,Udaipur,Rajasthan,Cash,53,Female,Corporate,Approved
+TXN00392,CUST0282,2025-07-12,Current,Withdrawal,62145.32,318454.21,BR-048,Madurai,Tamil Nadu,IMPS,41,Male,Corporate,No Loan
+TXN00393,CUST0004,2025-06-04,Current,Withdrawal,143993.75,5096.84,BR-020,Warangal,Telangana,UPI,39,Male,Corporate,Approved
+TXN00394,CUST0080,2025-07-02,Current,Deposit,115842.7,471957.21,BR-009,New Delhi,Delhi,Credit Card,56,Male,Retail,Approved
+TXN00395,CUST0248,2025-06-16,Savings,Deposit,38808.45,153649.7,BR-012,Warangal,Telangana,NEFT,46,Male,Corporate,Approved
+TXN00396,CUST0179,2025-06-21,Savings,Transfer,96517.07,23498.94,BR-028,Udaipur,Rajasthan,NEFT,45,Male,Retail,No Loan
+TXN00397,CUST0164,2025-01-22,Savings,Transfer,98090.49,303139.31,BR-035,Kolkata,West Bengal,UPI,61,Female,Retail,Rejected
+TXN00398,CUST0076,2025-07-21,Savings,Deposit,8052.71,367131.39,BR-009,Surat,Gujarat,Cash,49,Male,Retail,No Loan
+TXN00399,CUST0067,2025-12-24,Current,Transfer,111924.6,276335.44,BR-049,Chennai,Tamil Nadu,Credit Card,26,Female,Corporate,No Loan
+TXN00400,CUST0166,2025-08-09,Savings,Withdrawal,59600.16,287808.69,BR-044,Surat,Gujarat,NEFT,60,Male,Retail,Approved
+TXN00401,CUST0227,2025-06-29,Current,Withdrawal,55107.51,99292.42,BR-040,Bengaluru,Karnataka,Credit Card,59,Male,Premium,Approved
+TXN00402,CUST0076,2025-11-14,Savings,Deposit,30352.94,190041.29,BR-019,Surat,Gujarat,IMPS,26,Male,Corporate,Approved
+TXN00403,CUST0281,2025-05-13,Savings,Withdrawal,67784.2,16260.32,BR-031,Nashik,Maharashtra,Debit Card,55,Male,Retail,No Loan
+TXN00404,CUST0139,2025-12-23,Savings,Withdrawal,87659.24,333446.53,BR-004,Vadodara,Gujarat,UPI,37,Male,Retail,Rejected
+TXN00405,CUST0198,2025-11-29,Savings,Deposit,58602.45,139298.64,BR-015,Udaipur,Rajasthan,IMPS,44,Male,Retail,Rejected
+TXN00406,CUST0021,2025-01-12,Current,Withdrawal,130082.53,268122.52,BR-016,Kolkata,West Bengal,Debit Card,33,Female,Corporate,No Loan
+TXN00407,CUST0142,2025-09-14,Current,Withdrawal,111786.41,14094.25,BR-004,Warangal,Telangana,IMPS,43,Female,Corporate,Rejected
+TXN00408,CUST0117,2025-09-24,Savings,Transfer,142392.9,116663.44,BR-027,Warangal,Telangana,Credit Card,46,Male,Retail,No Loan
+TXN00409,CUST0104,2025-10-05,Current,Withdrawal,136505.44,167995.95,BR-009,New Delhi,Delhi,NEFT,29,Male,Corporate,Approved
+TXN00410,CUST0095,2025-03-02,Current,Deposit,98606.65,284597.92,BR-021,Hyderabad,Telangana,Debit Card,41,Male,Corporate,No Loan
+TXN00411,CUST0141,2025-11-23,Savings,Withdrawal,132079.72,209949.88,BR-010,Vadodara,Gujarat,Cash,40,Female,Corporate,No Loan
+TXN00412,CUST0014,2025-12-18,Savings,Deposit,4416.63,493048.02,BR-023,New Delhi,Delhi,NEFT,38,Male,Corporate,Approved
+TXN00413,CUST0243,2025-09-09,Current,Deposit,75597.53,304332.32,BR-009,Mangaluru,Karnataka,IMPS,62,Female,Retail,No Loan
+TXN00414,CUST0105,2025-04-14,Savings,Deposit,61584.08,484563.47,BR-005,Ahmedabad,Gujarat,Credit Card,47,Male,Corporate,No Loan
+TXN00415,CUST0161,2025-07-14,Current,Transfer,49071.9,231484.74,BR-026,Surat,Gujarat,Debit Card,48,Female,Retail,No Loan
+TXN00416,CUST0265,2025-07-18,Savings,Withdrawal,68806.61,439494.65,BR-049,Aurangabad,Maharashtra,Debit Card,54,Female,Corporate,Approved
+TXN00417,CUST0265,2025-01-28,Current,Withdrawal,60006.96,155754.3,BR-010,Mumbai,Maharashtra,Credit Card,50,Male,Premium,Rejected
+TXN00418,CUST0013,2025-08-19,Current,Deposit,108535.7,61019.94,BR-012,Udaipur,Rajasthan,NEFT,65,Male,Premium,No Loan
+TXN00419,CUST0186,2025-08-19,Savings,Withdrawal,13981.86,165417.02,BR-006,Udaipur,Rajasthan,IMPS,31,Male,Retail,Approved
+TXN00420,CUST0027,2025-04-02,Current,Transfer,57400.75,385288.86,BR-027,Kolkata,West Bengal,Credit Card,57,Male,Retail,No Loan
+TXN00421,CUST0235,2025-01-07,Current,Withdrawal,94154.7,63189.22,BR-032,Warangal,Telangana,Debit Card,33,Male,Corporate,No Loan
+TXN00422,CUST0004,2025-02-10,Savings,Transfer,132464.09,122749.79,BR-016,Udaipur,Rajasthan,NEFT,63,Female,Premium,No Loan
+TXN00423,CUST0153,2025-11-05,Savings,Deposit,22664.3,328372.05,BR-022,Hyderabad,Telangana,UPI,30,Male,Corporate,No Loan
+TXN00424,CUST0019,2025-07-04,Savings,Withdrawal,149063.41,84860.94,BR-006,Bengaluru,Karnataka,Credit Card,60,Male,Premium,No Loan
+TXN00425,CUST0141,2025-12-22,Current,Withdrawal,123129.58,380428.78,BR-022,Warangal,Telangana,NEFT,25,Female,Premium,Approved
+TXN00426,CUST0148,2025-11-06,Savings,Transfer,9198.6,287826.7,BR-028,Kolkata,West Bengal,IMPS,54,Male,Premium,No Loan
+TXN00427,CUST0120,2025-11-09,Current,Deposit,92336.35,250716.48,BR-046,Coimbatore,Tamil Nadu,IMPS,61,Female,Premium,No Loan
+TXN00428,CUST0287,2025-06-29,Savings,Deposit,4086.03,314603.07,BR-041,Hyderabad,Telangana,UPI,34,Female,Premium,Approved
+TXN00429,CUST0175,2025-06-20,Savings,Transfer,42603.19,396146.77,BR-026,New Delhi,Delhi,Credit Card,40,Female,Retail,Approved
+TXN00430,CUST0236,2025-03-21,Savings,Withdrawal,125156.88,461528.48,BR-035,Mumbai,Maharashtra,Cash,51,Male,Corporate,Approved
+TXN00431,CUST0296,2025-04-17,Current,Transfer,8875.33,262931.25,BR-044,Coimbatore,Tamil Nadu,NEFT,64,Female,Corporate,No Loan
+TXN00432,CUST0060,2025-04-06,Savings,Deposit,42428.77,20430.72,BR-049,Coimbatore,Tamil Nadu,Cash,61,Male,Corporate,No Loan
+TXN00433,CUST0090,2025-06-04,Savings,Withdrawal,62373.5,251041.95,BR-008,Warangal,Telangana,Debit Card,44,Female,Premium,Approved
+TXN00434,CUST0269,2025-09-05,Savings,Deposit,66844.23,17342.71,BR-020,Chennai,Tamil Nadu,Cash,53,Male,Retail,Rejected
+TXN00435,CUST0060,2025-09-25,Savings,Transfer,101669.23,70694.99,BR-001,Chennai,Tamil Nadu,IMPS,23,Female,Premium,No Loan
+TXN00436,CUST0108,2025-06-09,Savings,Withdrawal,70297.95,27839.19,BR-021,Hyderabad,Telangana,NEFT,63,Female,Retail,No Loan
+TXN00437,CUST0008,2025-02-28,Current,Withdrawal,80075.23,387529.61,BR-040,New Delhi,Delhi,IMPS,28,Female,Retail,Approved
+TXN00438,CUST0174,2025-11-10,Current,Transfer,48113.49,75070.63,BR-035,Bengaluru,Karnataka,IMPS,39,Male,Retail,Approved
+TXN00439,CUST0229,2025-04-02,Savings,Deposit,70874.97,339370.49,BR-040,Jaipur,Rajasthan,UPI,45,Male,Retail,No Loan
+TXN00440,CUST0240,2025-12-24,Current,Deposit,107078.35,337080.78,BR-007,Coimbatore,Tamil Nadu,NEFT,26,Female,Corporate,Approved
+TXN00441,CUST0170,2025-12-07,Current,Withdrawal,35138.28,115778.25,BR-021,Jodhpur,Rajasthan,NEFT,37,Female,Premium,Approved
+TXN00442,CUST0261,2025-03-07,Savings,Deposit,71562.49,178963.21,BR-007,Jodhpur,Rajasthan,Cash,31,Female,Premium,No Loan
+TXN00443,CUST0125,2025-11-14,Current,Transfer,97592.99,397253.32,BR-036,Kolkata,West Bengal,NEFT,50,Female,Corporate,No Loan
+TXN00444,CUST0121,2025-10-06,Current,Deposit,51436.77,407888.27,BR-012,Surat,Gujarat,NEFT,48,Female,Corporate,No Loan
+TXN00445,CUST0036,2025-07-27,Current,Deposit,89028.39,234139.67,BR-039,Mangaluru,Karnataka,NEFT,27,Female,Retail,Rejected
+TXN00446,CUST0001,2025-11-22,Current,Withdrawal,74397.12,331781.56,BR-049,Mangaluru,Karnataka,UPI,34,Male,Corporate,No Loan
+TXN00447,CUST0154,2025-06-12,Savings,Withdrawal,79922.75,198041.42,BR-037,Vadodara,Gujarat,NEFT,49,Male,Retail,No Loan
+TXN00448,CUST0028,2025-10-09,Current,Deposit,87617.68,307687.92,BR-001,Warangal,Telangana,NEFT,46,Male,Premium,Approved
+TXN00449,CUST0223,2025-07-15,Current,Deposit,35668.55,352599.83,BR-035,Chennai,Tamil Nadu,Cash,61,Female,Corporate,No Loan
+TXN00450,CUST0065,2025-12-10,Current,Deposit,28639.91,195374.55,BR-009,New Delhi,Delhi,Credit Card,47,Male,Premium,No Loan
+TXN00451,CUST0234,2025-08-01,Savings,Deposit,108340.22,245917.16,BR-045,Pune,Maharashtra,Cash,29,Male,Retail,No Loan
+TXN00452,CUST0296,2025-01-04,Current,Transfer,63906.64,410935.36,BR-032,Kolkata,West Bengal,Cash,43,Male,Retail,No Loan
+TXN00453,CUST0247,2025-10-25,Current,Transfer,86664.68,21563.63,BR-045,Delhi,Delhi,UPI,57,Female,Corporate,No Loan
+TXN00454,CUST0040,2025-12-06,Current,Withdrawal,77783.96,264061.61,BR-044,Bengaluru,Karnataka,NEFT,26,Male,Premium,No Loan
+TXN00455,CUST0149,2025-05-31,Current,Transfer,116889.81,237090.06,BR-011,Hyderabad,Telangana,NEFT,51,Female,Premium,No Loan
+TXN00456,CUST0014,2025-05-30,Current,Transfer,117860.72,133919.35,BR-019,Aurangabad,Maharashtra,IMPS,51,Male,Corporate,Approved
+TXN00457,CUST0058,2025-01-08,Savings,Transfer,11990.91,392962.6,BR-039,Jaipur,Rajasthan,Credit Card,29,Female,Premium,No Loan
+TXN00458,CUST0017,2025-09-28,Savings,Transfer,67274.65,404881.14,BR-022,Vadodara,Gujarat,Credit Card,65,Male,Premium,Approved
+TXN00459,CUST0296,2025-04-18,Savings,Withdrawal,113037.81,209409.2,BR-047,Bengaluru,Karnataka,Cash,36,Female,Corporate,No Loan
+TXN00460,CUST0120,2025-09-30,Current,Deposit,8352.22,234687.39,BR-025,Chennai,Tamil Nadu,Cash,40,Female,Corporate,No Loan
+TXN00461,CUST0022,2025-09-29,Current,Deposit,79801.1,220193.49,BR-007,Howrah,West Bengal,Credit Card,49,Female,Corporate,Rejected
+TXN00462,CUST0100,2025-05-04,Current,Withdrawal,40913.75,402146.6,BR-034,Coimbatore,Tamil Nadu,Credit Card,62,Female,Premium,No Loan
+TXN00463,CUST0229,2025-12-17,Savings,Withdrawal,82368.08,338036.92,BR-023,Madurai,Tamil Nadu,UPI,21,Female,Retail,No Loan
+TXN00464,CUST0062,2025-12-29,Current,Deposit,5589.24,311601.63,BR-006,Delhi,Delhi,UPI,59,Male,Corporate,No Loan
+TXN00465,CUST0219,2025-05-22,Savings,Deposit,104500.22,130401.19,BR-045,Surat,Gujarat,Cash,63,Male,Corporate,No Loan
+TXN00466,CUST0092,2025-05-16,Savings,Deposit,41954.48,35881.75,BR-029,Coimbatore,Tamil Nadu,Cash,42,Male,Premium,No Loan
+TXN00467,CUST0227,2025-02-24,Savings,Transfer,59198.85,324514.17,BR-046,Mysuru,Karnataka,UPI,30,Female,Retail,No Loan
+TXN00468,CUST0020,2025-01-01,Savings,Deposit,11026.64,365134.85,BR-043,Hyderabad,Telangana,Cash,22,Female,Retail,No Loan
+TXN00469,CUST0277,2025-02-05,Savings,Transfer,49809.71,198708.53,BR-015,Howrah,West Bengal,UPI,53,Female,Premium,No Loan
+TXN00470,CUST0047,2025-11-28,Current,Deposit,85302.96,467845.88,BR-024,Nagpur,Maharashtra,Credit Card,42,Female,Premium,Approved
+TXN00471,CUST0184,2025-02-24,Current,Withdrawal,97344.99,92426.06,BR-032,Chennai,Tamil Nadu,UPI,45,Male,Premium,No Loan
+TXN00472,CUST0158,2025-10-04,Current,Transfer,28824.94,22670.65,BR-032,Mangaluru,Karnataka,UPI,58,Male,Premium,No Loan
+TXN00473,CUST0268,2025-12-08,Savings,Withdrawal,8880.14,394950.37,BR-030,Jaipur,Rajasthan,UPI,46,Male,Retail,No Loan
+TXN00474,CUST0067,2025-12-26,Savings,Deposit,6013.21,75087.28,BR-001,Vadodara,Gujarat,IMPS,22,Female,Corporate,Approved
+TXN00475,CUST0113,2025-11-01,Savings,Withdrawal,123200.51,53159.66,BR-005,Vadodara,Gujarat,NEFT,31,Male,Retail,Approved
+TXN00476,CUST0024,2025-04-20,Current,Transfer,101920.48,165496.3,BR-038,Delhi,Delhi,IMPS,57,Male,Premium,No Loan
+TXN00477,CUST0298,2025-05-05,Savings,Deposit,41447.06,379987.29,BR-003,Surat,Gujarat,Debit Card,65,Female,Corporate,Approved
+TXN00478,CUST0146,2025-10-31,Current,Deposit,2836.73,246048.9,BR-027,Ahmedabad,Gujarat,UPI,21,Male,Retail,No Loan
+TXN00479,CUST0093,2025-01-20,Savings,Deposit,21891.64,139120.13,BR-046,Udaipur,Rajasthan,Cash,47,Male,Retail,No Loan
+TXN00480,CUST0049,2025-09-29,Savings,Transfer,124059.3,154093.88,BR-040,Udaipur,Rajasthan,Cash,21,Male,Retail,Approved
+TXN00481,CUST0243,2025-12-17,Savings,Withdrawal,115664.53,331366.94,BR-032,Madurai,Tamil Nadu,Credit Card,24,Male,Retail,No Loan
+TXN00482,CUST0023,2025-08-21,Savings,Deposit,96906.7,146106.94,BR-007,Ahmedabad,Gujarat,Cash,37,Female,Corporate,No Loan
+TXN00483,CUST0167,2025-10-24,Savings,Deposit,117931.06,245105.39,BR-027,Aurangabad,Maharashtra,UPI,25,Male,Corporate,No Loan
+TXN00484,CUST0242,2025-02-07,Savings,Deposit,49256.77,53541.75,BR-038,Delhi,Delhi,IMPS,47,Male,Premium,No Loan
+TXN00485,CUST0184,2025-04-10,Current,Deposit,32816.69,306669.61,BR-018,Jaipur,Rajasthan,Debit Card,45,Female,Retail,No Loan
+TXN00486,CUST0113,2025-06-25,Savings,Deposit,103985.47,34527.6,BR-019,Delhi,Delhi,Debit Card,28,Female,Premium,No Loan
+TXN00487,CUST0143,2025-08-25,Savings,Transfer,145535.31,428226.99,BR-001,Vadodara,Gujarat,UPI,47,Female,Retail,No Loan
+TXN00488,CUST0241,2025-01-21,Savings,Withdrawal,65420.18,115091.27,BR-047,Kolkata,West Bengal,NEFT,30,Male,Premium,No Loan
+TXN00489,CUST0209,2025-01-07,Current,Withdrawal,121552.62,349843.49,BR-014,Nagpur,Maharashtra,UPI,49,Female,Retail,Approved
+TXN00490,CUST0299,2025-10-20,Current,Deposit,97322.21,49911.1,BR-002,Surat,Gujarat,Cash,63,Female,Retail,No Loan
+TXN00491,CUST0037,2025-11-18,Savings,Transfer,61101.38,395980.06,BR-025,Jodhpur,Rajasthan,Credit Card,61,Female,Corporate,No Loan
+TXN00492,CUST0029,2025-06-21,Savings,Withdrawal,64172.39,138545.74,BR-033,Madurai,Tamil Nadu,NEFT,55,Male,Corporate,Approved
+TXN00493,CUST0288,2025-02-04,Savings,Withdrawal,55155.83,311471.06,BR-046,Chennai,Tamil Nadu,Credit Card,44,Male,Corporate,No Loan
+TXN00494,CUST0181,2025-06-14,Current,Deposit,81175.26,326274.01,BR-018,New Delhi,Delhi,IMPS,58,Male,Corporate,No Loan
+TXN00495,CUST0273,2025-12-14,Savings,Deposit,56235.66,228943.27,BR-019,Howrah,West Bengal,NEFT,54,Male,Premium,No Loan
+TXN00496,CUST0148,2025-04-02,Current,Transfer,141832.12,405353.96,BR-005,Udaipur,Rajasthan,UPI,33,Female,Retail,Approved
+TXN00497,CUST0278,2025-12-16,Current,Deposit,104713.78,250682.72,BR-009,Bengaluru,Karnataka,Debit Card,54,Male,Premium,No Loan
+TXN00498,CUST0172,2025-09-24,Current,Withdrawal,110787.53,15633.74,BR-027,Jodhpur,Rajasthan,Debit Card,25,Male,Retail,No Loan
+TXN00499,CUST0088,2025-06-06,Current,Withdrawal,89206.91,349947.47,BR-017,Madurai,Tamil Nadu,NEFT,49,Female,Premium,No Loan
+TXN00500,CUST0275,2025-03-24,Current,Withdrawal,115577.59,28422.87,BR-019,Delhi,Delhi,Credit Card,39,Female,Retail,No Loan
+TXN00501,CUST0106,2025-04-05,Savings,Deposit,36066.85,25369.97,BR-036,Ahmedabad,Gujarat,Credit Card,57,Male,Premium,Rejected
+TXN00502,CUST0256,2025-07-27,Current,Deposit,56250.78,272233.97,BR-050,Nashik,Maharashtra,Debit Card,55,Female,Retail,No Loan
+TXN00503,CUST0076,2025-10-21,Current,Deposit,1142.0,370555.02,BR-037,Surat,Gujarat,NEFT,42,Female,Premium,No Loan
+TXN00504,CUST0113,2025-11-13,Savings,Transfer,72107.69,24840.05,BR-029,Jodhpur,Rajasthan,IMPS,56,Male,Premium,Approved
+TXN00505,CUST0229,2025-10-03,Current,Deposit,91418.61,101599.12,BR-044,Chennai,Tamil Nadu,NEFT,35,Female,Retail,Approved
+TXN00506,CUST0190,2025-08-07,Current,Deposit,73824.57,303570.08,BR-025,Mangaluru,Karnataka,NEFT,24,Female,Premium,Approved
+TXN00507,CUST0227,2025-08-01,Current,Withdrawal,53027.58,488874.2,BR-019,Chennai,Tamil Nadu,NEFT,26,Male,Corporate,No Loan
+TXN00508,CUST0269,2025-09-01,Current,Transfer,134516.11,74086.01,BR-022,Vadodara,Gujarat,NEFT,59,Male,Retail,Approved
+TXN00509,CUST0071,2025-10-18,Current,Deposit,1489.52,321208.97,BR-013,Mangaluru,Karnataka,Credit Card,47,Male,Corporate,No Loan
+TXN00510,CUST0115,2025-08-26,Current,Transfer,73842.55,412285.61,BR-002,Surat,Gujarat,Credit Card,58,Female,Premium,No Loan
+TXN00511,CUST0126,2025-12-19,Current,Withdrawal,143425.98,417950.32,BR-002,Mumbai,Maharashtra,Cash,28,Female,Premium,Approved
+TXN00512,CUST0062,2025-09-01,Current,Deposit,90034.25,184070.96,BR-024,Mysuru,Karnataka,Cash,57,Female,Premium,No Loan
+TXN00513,CUST0215,2025-07-04,Savings,Transfer,9247.3,163242.15,BR-041,Nashik,Maharashtra,IMPS,29,Female,Retail,Approved
+TXN00514,CUST0279,2025-03-27,Current,Withdrawal,79677.04,468476.92,BR-021,Chennai,Tamil Nadu,NEFT,33,Male,Retail,No Loan
+TXN00515,CUST0145,2025-09-23,Current,Withdrawal,102973.84,345731.59,BR-024,Madurai,Tamil Nadu,UPI,55,Female,Retail,Approved
+TXN00516,CUST0060,2025-02-09,Current,Deposit,15811.47,81504.68,BR-009,Jodhpur,Rajasthan,Debit Card,33,Male,Premium,No Loan
+TXN00517,CUST0061,2025-01-15,Current,Withdrawal,103812.08,73811.92,BR-015,Nagpur,Maharashtra,Cash,59,Female,Retail,No Loan
+TXN00518,CUST0040,2025-02-27,Savings,Transfer,34372.88,67045.37,BR-002,Vadodara,Gujarat,Debit Card,26,Female,Corporate,No Loan
+TXN00519,CUST0023,2025-05-10,Savings,Deposit,16618.7,397562.31,BR-005,Jodhpur,Rajasthan,NEFT,58,Male,Premium,Approved
+TXN00520,CUST0297,2025-05-23,Savings,Deposit,138054.66,106673.59,BR-023,Hyderabad,Telangana,Debit Card,32,Female,Retail,Approved
+TXN00521,CUST0088,2025-05-25,Savings,Transfer,85750.19,54057.31,BR-049,Chennai,Tamil Nadu,NEFT,21,Male,Corporate,Approved
+TXN00522,CUST0093,2025-02-24,Savings,Transfer,127768.87,239984.17,BR-023,Pune,Maharashtra,IMPS,58,Male,Premium,No Loan
+TXN00523,CUST0185,2025-09-11,Savings,Transfer,34519.35,60858.51,BR-046,Howrah,West Bengal,Credit Card,28,Female,Retail,No Loan
+TXN00524,CUST0116,2025-08-16,Savings,Withdrawal,74310.06,195466.65,BR-036,Hyderabad,Telangana,Cash,59,Female,Corporate,No Loan
+TXN00525,CUST0252,2025-12-12,Current,Deposit,128587.68,447903.55,BR-044,Howrah,West Bengal,Cash,64,Female,Retail,Approved
+TXN00526,CUST0087,2025-02-22,Current,Transfer,98952.97,47077.93,BR-005,Mysuru,Karnataka,Debit Card,46,Female,Corporate,No Loan
+TXN00527,CUST0140,2025-10-25,Current,Deposit,89446.64,495377.35,BR-049,Chennai,Tamil Nadu,UPI,35,Female,Corporate,No Loan
+TXN00528,CUST0063,2025-02-25,Current,Transfer,90673.23,205199.58,BR-017,Howrah,West Bengal,Cash,53,Female,Retail,No Loan
+TXN00529,CUST0196,2025-04-02,Savings,Transfer,141389.25,19713.14,BR-039,Jodhpur,Rajasthan,IMPS,24,Male,Premium,No Loan
+TXN00530,CUST0255,2025-12-05,Current,Transfer,93673.28,381284.86,BR-032,Chennai,Tamil Nadu,IMPS,54,Female,Premium,Approved
+TXN00531,CUST0236,2025-08-15,Savings,Deposit,148611.38,440662.21,BR-003,Warangal,Telangana,UPI,45,Female,Premium,No Loan
+TXN00532,CUST0284,2025-09-09,Current,Transfer,25039.56,218187.15,BR-044,Mumbai,Maharashtra,Credit Card,45,Female,Retail,No Loan
+TXN00533,CUST0024,2025-01-15,Savings,Transfer,8832.7,135378.54,BR-009,Jodhpur,Rajasthan,NEFT,45,Female,Premium,Rejected
+TXN00534,CUST0127,2025-05-06,Savings,Transfer,51517.85,53188.27,BR-016,Coimbatore,Tamil Nadu,Credit Card,43,Female,Premium,Approved
+TXN00535,CUST0291,2025-08-05,Savings,Withdrawal,17613.46,89040.72,BR-033,Hyderabad,Telangana,NEFT,41,Male,Premium,No Loan
+TXN00536,CUST0052,2025-09-08,Savings,Transfer,70720.14,16007.04,BR-045,Howrah,West Bengal,Credit Card,45,Female,Premium,No Loan
+TXN00537,CUST0255,2025-04-14,Current,Transfer,121812.85,335356.84,BR-041,Delhi,Delhi,Debit Card,60,Female,Premium,No Loan
+TXN00538,CUST0297,2025-02-17,Savings,Withdrawal,40140.69,152173.53,BR-007,Mangaluru,Karnataka,NEFT,46,Male,Corporate,No Loan
+TXN00539,CUST0154,2025-09-16,Savings,Transfer,120277.26,240257.84,BR-028,Coimbatore,Tamil Nadu,Debit Card,43,Male,Corporate,No Loan
+TXN00540,CUST0096,2025-09-22,Current,Withdrawal,38064.09,260107.77,BR-037,Chennai,Tamil Nadu,IMPS,56,Male,Retail,No Loan
+TXN00541,CUST0076,2025-08-25,Current,Withdrawal,140605.86,268696.07,BR-016,Jaipur,Rajasthan,NEFT,48,Male,Corporate,Approved
+TXN00542,CUST0083,2025-05-27,Current,Withdrawal,61833.91,430792.05,BR-017,Vadodara,Gujarat,UPI,61,Male,Premium,Rejected
+TXN00543,CUST0019,2025-08-05,Savings,Deposit,22919.36,18713.57,BR-013,Delhi,Delhi,Credit Card,50,Female,Corporate,No Loan
+TXN00544,CUST0011,2025-09-06,Savings,Deposit,39130.33,402751.4,BR-004,Surat,Gujarat,IMPS,56,Male,Corporate,No Loan
+TXN00545,CUST0121,2025-03-13,Current,Deposit,135135.95,206468.39,BR-008,Mysuru,Karnataka,Credit Card,63,Male,Premium,No Loan
+TXN00546,CUST0217,2025-05-01,Current,Withdrawal,132742.45,122848.04,BR-014,Mangaluru,Karnataka,UPI,41,Female,Corporate,No Loan
+TXN00547,CUST0058,2025-12-25,Savings,Deposit,145503.56,222540.33,BR-021,Ahmedabad,Gujarat,Credit Card,58,Male,Premium,No Loan
+TXN00548,CUST0018,2025-11-07,Savings,Withdrawal,131975.31,468801.28,BR-048,Howrah,West Bengal,Credit Card,51,Female,Premium,Approved
+TXN00549,CUST0199,2025-08-15,Current,Transfer,58011.19,321279.78,BR-001,Mumbai,Maharashtra,IMPS,44,Male,Corporate,No Loan
+TXN00550,CUST0209,2025-11-26,Current,Deposit,140480.2,379550.62,BR-003,Howrah,West Bengal,Credit Card,34,Male,Premium,No Loan
+TXN00551,CUST0034,2025-09-17,Current,Withdrawal,110672.82,463616.12,BR-023,Hyderabad,Telangana,Credit Card,48,Male,Retail,No Loan
+TXN00552,CUST0103,2025-07-25,Current,Transfer,4588.96,30788.92,BR-041,Howrah,West Bengal,IMPS,32,Female,Corporate,Approved
+TXN00553,CUST0134,2025-03-10,Savings,Deposit,24094.45,260601.12,BR-012,Warangal,Telangana,IMPS,29,Female,Premium,No Loan
+TXN00554,CUST0118,2025-10-13,Savings,Deposit,62467.22,95035.18,BR-006,Coimbatore,Tamil Nadu,Cash,57,Male,Retail,No Loan
+TXN00555,CUST0088,2025-07-08,Current,Transfer,127848.72,29642.57,BR-037,Jaipur,Rajasthan,NEFT,48,Female,Retail,Approved
+TXN00556,CUST0196,2025-09-11,Current,Withdrawal,124174.99,249603.77,BR-009,Bengaluru,Karnataka,Debit Card,34,Male,Premium,Rejected
+TXN00557,CUST0121,2025-05-15,Savings,Withdrawal,109142.86,98734.77,BR-040,Kolkata,West Bengal,Debit Card,47,Male,Retail,Rejected
+TXN00558,CUST0109,2025-07-23,Current,Transfer,102797.93,231791.24,BR-046,Jaipur,Rajasthan,UPI,51,Male,Premium,No Loan
+TXN00559,CUST0024,2025-12-10,Current,Deposit,14744.27,34082.4,BR-001,Howrah,West Bengal,Credit Card,36,Female,Premium,No Loan
+TXN00560,CUST0174,2025-09-10,Current,Withdrawal,100853.67,70457.94,BR-030,Warangal,Telangana,NEFT,23,Male,Premium,Approved
+TXN00561,CUST0185,2025-05-24,Current,Transfer,79798.36,75188.89,BR-028,Ahmedabad,Gujarat,UPI,41,Male,Retail,No Loan
+TXN00562,CUST0226,2025-12-03,Current,Transfer,47295.04,446872.55,BR-004,Warangal,Telangana,Credit Card,52,Male,Corporate,No Loan
+TXN00563,CUST0021,2025-09-11,Savings,Deposit,27879.63,237772.53,BR-029,New Delhi,Delhi,Debit Card,50,Female,Retail,No Loan
+TXN00564,CUST0093,2025-05-26,Current,Withdrawal,74201.79,423689.98,BR-011,Madurai,Tamil Nadu,Debit Card,28,Female,Retail,Approved
+TXN00565,CUST0014,2025-06-18,Savings,Transfer,115143.72,94381.58,BR-019,Hyderabad,Telangana,UPI,36,Female,Corporate,Approved
+TXN00566,CUST0246,2025-12-29,Current,Transfer,139407.69,57504.61,BR-030,Mysuru,Karnataka,Credit Card,30,Male,Retail,No Loan
+TXN00567,CUST0145,2025-11-26,Current,Deposit,98597.83,475693.5,BR-021,Hyderabad,Telangana,Credit Card,57,Male,Retail,No Loan
+TXN00568,CUST0146,2025-07-26,Current,Deposit,60129.35,93115.35,BR-042,Pune,Maharashtra,Cash,26,Male,Retail,Approved
+TXN00569,CUST0263,2025-07-08,Current,Withdrawal,120264.51,369265.2,BR-013,Ahmedabad,Gujarat,Credit Card,64,Male,Premium,No Loan
+TXN00570,CUST0219,2025-11-19,Current,Withdrawal,40637.67,302168.67,BR-006,Jodhpur,Rajasthan,UPI,48,Female,Corporate,Approved
+TXN00571,CUST0043,2025-09-26,Current,Withdrawal,101627.78,325567.26,BR-019,Aurangabad,Maharashtra,IMPS,30,Female,Corporate,No Loan
+TXN00572,CUST0025,2025-10-19,Savings,Withdrawal,45408.79,492172.19,BR-036,Jodhpur,Rajasthan,IMPS,40,Male,Corporate,No Loan
+TXN00573,CUST0258,2025-02-11,Savings,Transfer,64024.57,51769.76,BR-002,Bengaluru,Karnataka,IMPS,57,Female,Premium,Rejected
+TXN00574,CUST0233,2025-10-28,Current,Deposit,118033.48,422240.36,BR-049,Mangaluru,Karnataka,UPI,26,Female,Corporate,Rejected
+TXN00575,CUST0133,2025-11-06,Current,Withdrawal,145024.58,436315.69,BR-044,Udaipur,Rajasthan,Debit Card,34,Male,Retail,No Loan
+TXN00576,CUST0250,2025-12-03,Savings,Deposit,59542.61,11585.78,BR-020,Mysuru,Karnataka,IMPS,51,Female,Corporate,No Loan
+TXN00577,CUST0108,2025-01-14,Current,Withdrawal,13601.45,71881.4,BR-031,Madurai,Tamil Nadu,Debit Card,28,Male,Corporate,No Loan
+TXN00578,CUST0243,2025-03-17,Savings,Withdrawal,126392.41,429803.73,BR-028,Vadodara,Gujarat,NEFT,33,Male,Premium,No Loan
+TXN00579,CUST0151,2025-04-14,Savings,Deposit,110947.79,225406.64,BR-037,Pune,Maharashtra,Cash,51,Male,Premium,No Loan
+TXN00580,CUST0149,2025-10-11,Current,Deposit,15848.2,424576.62,BR-003,Kolkata,West Bengal,Cash,47,Female,Corporate,No Loan
+TXN00581,CUST0217,2025-01-10,Current,Transfer,88860.37,307690.17,BR-037,Jodhpur,Rajasthan,IMPS,52,Male,Corporate,Approved
+TXN00582,CUST0230,2025-06-27,Savings,Withdrawal,133985.14,211483.04,BR-045,Madurai,Tamil Nadu,Cash,28,Female,Corporate,No Loan
+TXN00583,CUST0240,2025-06-23,Savings,Withdrawal,109068.27,237274.02,BR-009,Kolkata,West Bengal,Cash,35,Male,Corporate,No Loan
+TXN00584,CUST0248,2025-02-14,Current,Transfer,98048.78,183326.51,BR-009,Warangal,Telangana,Cash,31,Male,Premium,No Loan
+TXN00585,CUST0184,2025-01-10,Savings,Transfer,74081.77,397773.82,BR-017,Ahmedabad,Gujarat,Cash,40,Male,Retail,No Loan
+TXN00586,CUST0062,2025-04-27,Savings,Deposit,124278.33,447756.45,BR-036,Madurai,Tamil Nadu,UPI,25,Female,Premium,Approved
+TXN00587,CUST0054,2025-11-06,Current,Withdrawal,117840.43,385840.08,BR-046,Delhi,Delhi,NEFT,38,Male,Corporate,No Loan
+TXN00588,CUST0061,2025-11-19,Current,Deposit,146211.63,391917.94,BR-014,Nagpur,Maharashtra,NEFT,27,Male,Corporate,Approved
+TXN00589,CUST0063,2025-03-12,Current,Transfer,66506.93,255418.83,BR-013,Chennai,Tamil Nadu,IMPS,27,Male,Corporate,No Loan
+TXN00590,CUST0185,2025-08-01,Savings,Deposit,125304.6,239463.35,BR-041,Jodhpur,Rajasthan,Credit Card,53,Male,Retail,Rejected
+TXN00591,CUST0265,2025-01-06,Current,Deposit,21130.15,217267.31,BR-005,New Delhi,Delhi,Cash,50,Female,Retail,No Loan
+TXN00592,CUST0295,2025-03-19,Current,Withdrawal,147300.77,86340.72,BR-004,Mysuru,Karnataka,UPI,46,Male,Corporate,No Loan
+TXN00593,CUST0076,2025-09-28,Current,Transfer,105268.16,437405.45,BR-045,Warangal,Telangana,IMPS,41,Female,Retail,No Loan
+TXN00594,CUST0155,2025-04-12,Savings,Transfer,93841.77,311002.79,BR-006,Howrah,West Bengal,Cash,65,Female,Corporate,No Loan
+TXN00595,CUST0160,2025-10-10,Current,Withdrawal,108902.25,371325.85,BR-034,Aurangabad,Maharashtra,Debit Card,54,Female,Retail,Approved
+TXN00596,CUST0057,2025-09-16,Savings,Deposit,4669.74,399316.36,BR-047,Madurai,Tamil Nadu,NEFT,37,Male,Premium,No Loan
+TXN00597,CUST0233,2025-01-03,Current,Transfer,76371.16,66287.44,BR-022,Nashik,Maharashtra,IMPS,28,Female,Premium,No Loan
+TXN00598,CUST0054,2025-05-07,Current,Withdrawal,43038.06,393470.69,BR-021,New Delhi,Delhi,IMPS,57,Male,Corporate,No Loan
+TXN00599,CUST0244,2025-03-08,Current,Deposit,22409.71,215717.61,BR-014,Delhi,Delhi,Cash,26,Male,Retail,No Loan
+TXN00600,CUST0226,2025-08-05,Current,Transfer,79175.21,296178.53,BR-045,Jaipur,Rajasthan,NEFT,46,Female,Corporate,No Loan
+TXN00601,CUST0061,2025-09-28,Current,Deposit,22079.75,67926.37,BR-045,Udaipur,Rajasthan,IMPS,50,Male,Corporate,No Loan
+TXN00602,CUST0149,2025-10-20,Current,Deposit,112101.2,472314.43,BR-003,Delhi,Delhi,Credit Card,28,Female,Retail,Approved
+TXN00603,CUST0025,2025-08-04,Current,Withdrawal,148657.51,155113.74,BR-020,Ahmedabad,Gujarat,Cash,22,Male,Retail,No Loan
+TXN00604,CUST0290,2025-06-08,Savings,Transfer,73574.65,65552.31,BR-029,Hyderabad,Telangana,Credit Card,25,Male,Premium,No Loan
+TXN00605,CUST0167,2025-03-18,Current,Transfer,125135.68,70740.76,BR-006,Coimbatore,Tamil Nadu,Debit Card,53,Female,Premium,No Loan
+TXN00606,CUST0013,2025-03-26,Savings,Withdrawal,51180.18,27680.76,BR-037,Howrah,West Bengal,IMPS,49,Female,Corporate,Approved
+TXN00607,CUST0062,2025-01-10,Savings,Deposit,143297.66,273207.99,BR-043,Hyderabad,Telangana,UPI,57,Male,Premium,No Loan
+TXN00608,CUST0024,2025-07-25,Current,Deposit,37170.36,354280.76,BR-032,Ahmedabad,Gujarat,NEFT,49,Male,Corporate,No Loan
+TXN00609,CUST0278,2025-02-20,Current,Deposit,62533.0,430525.96,BR-011,Nashik,Maharashtra,Credit Card,45,Female,Retail,Approved
+TXN00610,CUST0093,2025-06-16,Savings,Withdrawal,115361.55,81342.55,BR-002,Hyderabad,Telangana,Cash,64,Male,Retail,No Loan
+TXN00611,CUST0122,2025-05-03,Current,Deposit,48346.2,209347.29,BR-032,Nashik,Maharashtra,Credit Card,37,Female,Retail,Approved
+TXN00612,CUST0138,2025-01-10,Current,Deposit,48091.3,278794.94,BR-036,Kolkata,West Bengal,UPI,51,Male,Premium,No Loan
+TXN00613,CUST0126,2025-03-28,Savings,Withdrawal,85452.72,225761.22,BR-035,Bengaluru,Karnataka,IMPS,53,Male,Retail,No Loan
+TXN00614,CUST0140,2025-09-04,Savings,Deposit,121990.24,480751.65,BR-039,Howrah,West Bengal,NEFT,39,Male,Retail,Approved
+TXN00615,CUST0154,2025-02-05,Current,Transfer,32306.74,421138.68,BR-006,Warangal,Telangana,Credit Card,23,Male,Corporate,No Loan
+TXN00616,CUST0134,2025-11-22,Savings,Transfer,83693.62,143331.86,BR-049,Kolkata,West Bengal,Cash,34,Female,Corporate,No Loan
+TXN00617,CUST0002,2025-03-10,Savings,Transfer,147461.78,174106.75,BR-039,Jodhpur,Rajasthan,Cash,59,Female,Retail,No Loan
+TXN00618,CUST0040,2025-11-29,Savings,Transfer,26443.64,280116.37,BR-035,Jaipur,Rajasthan,IMPS,52,Female,Corporate,Approved
+TXN00619,CUST0005,2025-12-23,Savings,Withdrawal,145819.83,191306.34,BR-008,Nagpur,Maharashtra,NEFT,43,Female,Retail,No Loan
+TXN00620,CUST0156,2025-11-11,Savings,Withdrawal,1899.81,372856.5,BR-046,Jodhpur,Rajasthan,Credit Card,64,Female,Retail,Approved
+TXN00621,CUST0203,2025-11-23,Current,Withdrawal,6001.01,248954.75,BR-008,New Delhi,Delhi,IMPS,59,Male,Retail,Approved
+TXN00622,CUST0066,2025-02-03,Savings,Transfer,29468.65,370713.34,BR-017,Warangal,Telangana,IMPS,64,Male,Retail,No Loan
+TXN00623,CUST0002,2025-08-21,Savings,Transfer,3956.07,485056.32,BR-028,Delhi,Delhi,IMPS,55,Female,Corporate,No Loan
+TXN00624,CUST0025,2025-04-25,Current,Withdrawal,41468.32,341685.87,BR-018,Nashik,Maharashtra,Cash,52,Female,Corporate,No Loan
+TXN00625,CUST0128,2025-02-08,Current,Deposit,59082.9,170679.38,BR-013,Howrah,West Bengal,NEFT,22,Male,Corporate,No Loan
+TXN00626,CUST0129,2025-06-21,Current,Deposit,94086.21,52879.42,BR-016,Surat,Gujarat,Cash,48,Male,Corporate,No Loan
+TXN00627,CUST0229,2025-02-18,Savings,Withdrawal,124961.37,411708.73,BR-038,Mysuru,Karnataka,NEFT,36,Male,Corporate,No Loan
+TXN00628,CUST0029,2025-08-15,Savings,Deposit,56920.57,445591.45,BR-020,Bengaluru,Karnataka,IMPS,25,Male,Retail,No Loan
+TXN00629,CUST0006,2025-04-30,Savings,Transfer,8840.6,30840.56,BR-030,Kolkata,West Bengal,Cash,46,Male,Corporate,No Loan
+TXN00630,CUST0056,2025-04-09,Current,Transfer,93074.97,173110.16,BR-007,Howrah,West Bengal,IMPS,22,Female,Corporate,Rejected
+TXN00631,CUST0228,2025-11-14,Savings,Transfer,118517.76,100839.2,BR-012,Aurangabad,Maharashtra,NEFT,29,Female,Premium,No Loan
+TXN00632,CUST0075,2025-10-05,Savings,Deposit,19588.27,294338.54,BR-010,New Delhi,Delhi,NEFT,62,Female,Premium,No Loan
+TXN00633,CUST0028,2025-10-14,Current,Withdrawal,55640.08,9000.51,BR-028,Jodhpur,Rajasthan,NEFT,63,Male,Retail,Approved
+TXN00634,CUST0170,2025-08-28,Savings,Transfer,136320.78,393705.58,BR-038,Chennai,Tamil Nadu,Credit Card,33,Female,Corporate,No Loan
+TXN00635,CUST0118,2025-12-21,Current,Withdrawal,49628.55,56899.71,BR-030,Madurai,Tamil Nadu,UPI,52,Male,Retail,No Loan
+TXN00636,CUST0186,2025-01-04,Current,Transfer,115368.09,408253.07,BR-001,New Delhi,Delhi,IMPS,45,Male,Premium,Approved
+TXN00637,CUST0102,2025-04-12,Savings,Transfer,17720.8,148835.23,BR-019,Mysuru,Karnataka,Debit Card,61,Female,Retail,No Loan
+TXN00638,CUST0052,2025-05-15,Current,Transfer,26555.54,424529.42,BR-002,Ahmedabad,Gujarat,Debit Card,32,Male,Retail,Approved
+TXN00639,CUST0223,2025-09-27,Savings,Withdrawal,140449.06,156010.83,BR-046,Surat,Gujarat,Debit Card,44,Female,Corporate,Approved
+TXN00640,CUST0126,2025-11-22,Savings,Deposit,119337.27,99882.24,BR-003,Bengaluru,Karnataka,Cash,65,Female,Premium,No Loan
+TXN00641,CUST0034,2025-08-29,Savings,Withdrawal,37452.16,316582.27,BR-011,Delhi,Delhi,Credit Card,29,Female,Retail,No Loan
+TXN00642,CUST0138,2025-08-31,Current,Transfer,69907.96,164302.45,BR-038,Howrah,West Bengal,Credit Card,54,Female,Corporate,No Loan
+TXN00643,CUST0293,2025-07-13,Savings,Deposit,134285.25,228779.63,BR-011,Kolkata,West Bengal,Debit Card,46,Male,Premium,No Loan
+TXN00644,CUST0173,2025-09-20,Savings,Deposit,112867.6,151048.77,BR-028,Coimbatore,Tamil Nadu,NEFT,43,Male,Corporate,Approved
+TXN00645,CUST0039,2025-05-16,Current,Withdrawal,55443.04,251283.82,BR-023,Jodhpur,Rajasthan,Credit Card,45,Male,Retail,No Loan
+TXN00646,CUST0169,2025-04-11,Savings,Withdrawal,139027.58,53712.51,BR-017,Mysuru,Karnataka,UPI,44,Male,Corporate,Approved
+TXN00647,CUST0178,2025-05-25,Savings,Transfer,90803.09,73243.24,BR-026,Warangal,Telangana,IMPS,55,Female,Retail,No Loan
+TXN00648,CUST0243,2025-04-18,Current,Transfer,77140.72,381774.47,BR-015,Kolkata,West Bengal,Debit Card,46,Male,Retail,No Loan
+TXN00649,CUST0016,2025-10-13,Current,Withdrawal,118891.28,159972.04,BR-024,Udaipur,Rajasthan,Debit Card,48,Female,Retail,No Loan
+TXN00650,CUST0207,2025-12-18,Savings,Withdrawal,141531.42,9792.17,BR-049,Vadodara,Gujarat,IMPS,43,Female,Retail,No Loan
+TXN00651,CUST0033,2025-07-20,Savings,Transfer,117910.99,461461.37,BR-035,Warangal,Telangana,Debit Card,42,Female,Premium,Approved
+TXN00652,CUST0091,2025-10-11,Current,Deposit,49661.78,481159.38,BR-003,Kolkata,West Bengal,IMPS,40,Male,Retail,Approved
+TXN00653,CUST0233,2025-02-05,Savings,Deposit,10888.91,481682.31,BR-004,Jaipur,Rajasthan,Credit Card,34,Male,Premium,No Loan
+TXN00654,CUST0036,2025-09-02,Savings,Deposit,49352.42,455357.16,BR-025,Madurai,Tamil Nadu,Cash,31,Male,Retail,No Loan
+TXN00655,CUST0235,2025-12-17,Savings,Withdrawal,65114.0,356287.45,BR-018,New Delhi,Delhi,Cash,31,Female,Corporate,Approved
+TXN00656,CUST0237,2025-08-24,Savings,Withdrawal,10063.52,202622.27,BR-037,New Delhi,Delhi,Debit Card,54,Female,Corporate,No Loan
+TXN00657,CUST0213,2025-03-31,Current,Transfer,132208.61,230871.78,BR-016,Pune,Maharashtra,IMPS,40,Female,Corporate,No Loan
+TXN00658,CUST0123,2025-01-23,Current,Withdrawal,58007.42,331244.62,BR-011,Vadodara,Gujarat,IMPS,57,Male,Premium,No Loan
+TXN00659,CUST0259,2025-02-23,Savings,Transfer,109117.39,451606.19,BR-050,Warangal,Telangana,Cash,47,Male,Premium,Approved
+TXN00660,CUST0196,2025-08-25,Current,Deposit,38288.61,255501.96,BR-022,Coimbatore,Tamil Nadu,Cash,22,Male,Corporate,No Loan
+TXN00661,CUST0281,2025-02-12,Current,Deposit,2105.24,61767.94,BR-043,Kolkata,West Bengal,Debit Card,41,Female,Premium,No Loan
+TXN00662,CUST0201,2025-10-01,Savings,Withdrawal,123153.79,421573.45,BR-011,Delhi,Delhi,Debit Card,22,Male,Retail,Rejected
+TXN00663,CUST0025,2025-08-15,Savings,Transfer,41351.21,223125.71,BR-041,Mangaluru,Karnataka,Debit Card,34,Male,Corporate,No Loan
+TXN00664,CUST0047,2025-04-13,Current,Withdrawal,8336.08,7309.54,BR-002,Mysuru,Karnataka,Cash,33,Male,Premium,No Loan
+TXN00665,CUST0023,2025-03-27,Savings,Withdrawal,123168.72,341579.97,BR-027,Kolkata,West Bengal,UPI,35,Male,Corporate,Approved
+TXN00666,CUST0183,2025-02-24,Current,Transfer,94204.57,314213.31,BR-021,Mysuru,Karnataka,NEFT,46,Female,Retail,Approved
+TXN00667,CUST0189,2025-11-29,Current,Transfer,47777.91,197647.4,BR-003,Ahmedabad,Gujarat,Cash,35,Male,Corporate,No Loan
+TXN00668,CUST0167,2025-11-04,Current,Withdrawal,115248.0,252290.13,BR-041,Bengaluru,Karnataka,UPI,55,Male,Premium,No Loan
+TXN00669,CUST0300,2025-11-08,Current,Deposit,95485.34,442563.68,BR-029,Kolkata,West Bengal,Credit Card,63,Female,Retail,Rejected
+TXN00670,CUST0041,2025-05-05,Savings,Deposit,3671.4,380675.81,BR-004,Kolkata,West Bengal,UPI,40,Male,Corporate,No Loan
+TXN00671,CUST0169,2025-08-16,Current,Withdrawal,30700.76,190995.23,BR-009,Surat,Gujarat,IMPS,23,Male,Corporate,No Loan
+TXN00672,CUST0106,2025-05-05,Savings,Transfer,118871.08,210372.23,BR-035,Warangal,Telangana,Credit Card,22,Male,Corporate,Rejected
+TXN00673,CUST0099,2025-02-05,Savings,Transfer,130969.51,263128.6,BR-004,Mumbai,Maharashtra,Debit Card,49,Male,Retail,No Loan
+TXN00674,CUST0085,2025-06-09,Savings,Deposit,26464.54,276679.31,BR-047,Ahmedabad,Gujarat,Debit Card,36,Male,Premium,No Loan
+TXN00675,CUST0041,2025-09-04,Current,Deposit,91074.76,155034.85,BR-024,New Delhi,Delhi,NEFT,49,Male,Premium,No Loan
+TXN00676,CUST0219,2025-07-15,Savings,Withdrawal,66485.72,255119.81,BR-006,Howrah,West Bengal,IMPS,48,Male,Premium,Approved
+TXN00677,CUST0101,2025-08-29,Savings,Withdrawal,57377.31,156394.41,BR-010,Hyderabad,Telangana,Credit Card,45,Female,Retail,Rejected
+TXN00678,CUST0158,2025-09-08,Savings,Transfer,109690.11,190257.62,BR-042,New Delhi,Delhi,Cash,47,Female,Corporate,No Loan
+TXN00679,CUST0251,2025-12-30,Savings,Deposit,58031.49,284976.25,BR-041,Mysuru,Karnataka,Debit Card,48,Female,Corporate,Rejected
+TXN00680,CUST0015,2025-07-05,Savings,Transfer,58107.31,214899.97,BR-045,Madurai,Tamil Nadu,Debit Card,36,Female,Retail,No Loan
+TXN00681,CUST0197,2025-02-17,Current,Transfer,22531.42,127470.33,BR-026,Surat,Gujarat,NEFT,63,Male,Retail,Approved
+TXN00682,CUST0046,2025-07-30,Savings,Withdrawal,25290.63,216301.38,BR-007,Mangaluru,Karnataka,IMPS,40,Female,Corporate,Rejected
+TXN00683,CUST0050,2025-01-01,Current,Transfer,31824.07,375403.67,BR-005,Chennai,Tamil Nadu,IMPS,40,Male,Retail,No Loan
+TXN00684,CUST0231,2025-02-26,Current,Transfer,64926.96,92318.64,BR-037,Howrah,West Bengal,Debit Card,29,Male,Premium,Approved
+TXN00685,CUST0056,2025-11-16,Savings,Deposit,112612.4,405543.42,BR-041,New Delhi,Delhi,Debit Card,37,Female,Premium,No Loan
+TXN00686,CUST0005,2025-02-21,Current,Deposit,56970.42,141997.29,BR-004,Ahmedabad,Gujarat,Credit Card,22,Male,Premium,No Loan
+TXN00687,CUST0220,2025-06-22,Savings,Deposit,32054.72,396934.34,BR-022,Hyderabad,Telangana,Cash,59,Female,Premium,No Loan
+TXN00688,CUST0170,2025-07-02,Current,Withdrawal,122618.66,470790.57,BR-007,Madurai,Tamil Nadu,IMPS,46,Female,Corporate,Approved
+TXN00689,CUST0128,2025-12-25,Current,Transfer,125395.46,462893.37,BR-024,Nagpur,Maharashtra,UPI,59,Male,Corporate,Rejected
+TXN00690,CUST0167,2025-01-24,Current,Transfer,62262.43,98027.79,BR-044,Udaipur,Rajasthan,IMPS,41,Male,Corporate,No Loan
+TXN00691,CUST0198,2025-02-21,Current,Withdrawal,111011.09,398010.39,BR-019,Jaipur,Rajasthan,Credit Card,48,Female,Corporate,No Loan
+TXN00692,CUST0247,2025-03-01,Savings,Deposit,74939.8,48109.5,BR-043,New Delhi,Delhi,IMPS,56,Female,Retail,No Loan
+TXN00693,CUST0197,2025-06-17,Savings,Deposit,113111.25,331573.83,BR-050,New Delhi,Delhi,UPI,27,Female,Corporate,Approved
+TXN00694,CUST0047,2025-09-09,Current,Transfer,71707.2,449267.89,BR-045,Hyderabad,Telangana,UPI,63,Male,Corporate,No Loan
+TXN00695,CUST0149,2025-03-01,Savings,Transfer,51812.25,455532.73,BR-006,Chennai,Tamil Nadu,IMPS,45,Female,Retail,Approved
+TXN00696,CUST0296,2025-07-14,Current,Transfer,89033.97,98137.4,BR-048,Bengaluru,Karnataka,UPI,57,Female,Retail,No Loan
+TXN00697,CUST0267,2025-03-06,Savings,Transfer,80572.65,424323.71,BR-043,Nashik,Maharashtra,Cash,41,Female,Corporate,No Loan
+TXN00698,CUST0146,2025-03-17,Current,Deposit,80974.8,232998.37,BR-010,New Delhi,Delhi,Debit Card,39,Male,Premium,No Loan
+TXN00699,CUST0150,2025-09-11,Current,Withdrawal,75605.51,345857.0,BR-046,Aurangabad,Maharashtra,Credit Card,57,Female,Corporate,No Loan
+TXN00700,CUST0154,2025-07-20,Current,Deposit,124268.76,109253.48,BR-043,Kolkata,West Bengal,IMPS,35,Male,Retail,No Loan
+TXN00701,CUST0145,2025-05-25,Current,Withdrawal,63654.4,239343.7,BR-045,Ahmedabad,Gujarat,Credit Card,46,Female,Retail,No Loan
+TXN00702,CUST0227,2025-03-12,Savings,Deposit,48851.08,396682.35,BR-045,Delhi,Delhi,UPI,40,Female,Corporate,Approved
+TXN00703,CUST0053,2025-10-22,Savings,Deposit,33111.4,375449.35,BR-044,Jodhpur,Rajasthan,IMPS,62,Male,Premium,No Loan
+TXN00704,CUST0264,2025-03-02,Current,Transfer,126328.18,463362.74,BR-042,Surat,Gujarat,UPI,43,Female,Retail,No Loan
+TXN00705,CUST0089,2025-12-19,Current,Deposit,94232.4,204977.03,BR-042,Madurai,Tamil Nadu,UPI,28,Male,Premium,No Loan
+TXN00706,CUST0251,2025-03-04,Current,Transfer,57624.09,318005.09,BR-042,Kolkata,West Bengal,Cash,44,Male,Retail,Approved
+TXN00707,CUST0223,2025-12-26,Current,Withdrawal,104212.01,51803.85,BR-020,New Delhi,Delhi,NEFT,32,Female,Premium,No Loan
+TXN00708,CUST0275,2025-10-12,Current,Deposit,107208.34,431794.19,BR-034,Ahmedabad,Gujarat,NEFT,32,Female,Corporate,Approved
+TXN00709,CUST0063,2025-06-10,Savings,Deposit,144869.32,449313.14,BR-003,Jaipur,Rajasthan,Debit Card,59,Male,Retail,No Loan
+TXN00710,CUST0088,2025-10-06,Savings,Transfer,24600.93,283435.62,BR-028,Vadodara,Gujarat,UPI,26,Male,Corporate,Rejected
+TXN00711,CUST0161,2025-12-22,Current,Deposit,141959.09,262124.32,BR-034,Mumbai,Maharashtra,Credit Card,63,Female,Retail,No Loan
+TXN00712,CUST0069,2025-04-21,Savings,Transfer,15301.87,410782.83,BR-039,Madurai,Tamil Nadu,Debit Card,23,Male,Retail,Rejected
+TXN00713,CUST0205,2025-03-25,Current,Deposit,109501.11,213897.43,BR-030,Delhi,Delhi,NEFT,37,Female,Premium,No Loan
+TXN00714,CUST0262,2025-12-03,Current,Transfer,21914.97,105862.63,BR-039,Mysuru,Karnataka,IMPS,38,Male,Corporate,No Loan
+TXN00715,CUST0057,2025-09-30,Savings,Withdrawal,148871.12,219645.43,BR-044,Surat,Gujarat,UPI,59,Male,Retail,Rejected
+TXN00716,CUST0114,2025-07-13,Current,Transfer,13801.64,455076.47,BR-025,Kolkata,West Bengal,Credit Card,30,Male,Premium,Approved
+TXN00717,CUST0283,2025-05-25,Savings,Transfer,109384.95,156742.03,BR-018,Bengaluru,Karnataka,Cash,27,Female,Corporate,No Loan
+TXN00718,CUST0005,2025-05-13,Savings,Withdrawal,142003.29,197833.85,BR-044,Bengaluru,Karnataka,Credit Card,64,Female,Premium,No Loan
+TXN00719,CUST0215,2025-12-14,Savings,Deposit,57130.7,369034.08,BR-046,Vadodara,Gujarat,UPI,61,Female,Corporate,No Loan
+TXN00720,CUST0157,2025-02-14,Current,Withdrawal,119871.1,253603.48,BR-027,Jaipur,Rajasthan,Credit Card,48,Male,Premium,No Loan
+TXN00721,CUST0253,2025-10-11,Savings,Deposit,109627.98,472709.14,BR-001,Chennai,Tamil Nadu,Debit Card,57,Male,Retail,No Loan
+TXN00722,CUST0004,2025-04-08,Current,Withdrawal,77494.22,498987.44,BR-046,Kolkata,West Bengal,NEFT,65,Male,Premium,Approved
+TXN00723,CUST0269,2025-03-28,Savings,Transfer,99345.53,460627.18,BR-015,Howrah,West Bengal,NEFT,64,Male,Corporate,No Loan
+TXN00724,CUST0174,2025-02-27,Current,Deposit,77295.83,476479.38,BR-044,Ahmedabad,Gujarat,Cash,52,Female,Retail,No Loan
+TXN00725,CUST0264,2025-11-26,Current,Withdrawal,72727.14,136051.64,BR-003,New Delhi,Delhi,UPI,61,Female,Retail,No Loan
+TXN00726,CUST0206,2025-04-06,Current,Deposit,53683.74,309687.47,BR-023,Udaipur,Rajasthan,Credit Card,40,Female,Retail,Approved
+TXN00727,CUST0129,2025-12-03,Current,Withdrawal,30032.89,266902.8,BR-015,Pune,Maharashtra,Debit Card,47,Male,Premium,Approved
+TXN00728,CUST0083,2025-08-13,Current,Withdrawal,54992.11,446635.73,BR-009,Jodhpur,Rajasthan,NEFT,38,Male,Premium,No Loan
+TXN00729,CUST0216,2025-07-22,Current,Deposit,54205.89,435904.46,BR-048,Madurai,Tamil Nadu,Debit Card,28,Male,Premium,Approved
+TXN00730,CUST0066,2025-09-11,Savings,Transfer,30249.29,242251.02,BR-021,Chennai,Tamil Nadu,IMPS,38,Male,Premium,No Loan
+TXN00731,CUST0122,2025-12-17,Savings,Deposit,143672.95,397392.91,BR-004,Howrah,West Bengal,Debit Card,30,Female,Corporate,Approved
+TXN00732,CUST0096,2025-09-19,Savings,Withdrawal,72288.86,144700.57,BR-016,Coimbatore,Tamil Nadu,UPI,48,Male,Corporate,Approved
+TXN00733,CUST0093,2025-11-09,Current,Transfer,37479.48,411201.66,BR-013,Hyderabad,Telangana,Debit Card,51,Male,Corporate,No Loan
+TXN00734,CUST0027,2025-02-16,Savings,Deposit,60491.83,140561.51,BR-025,Ahmedabad,Gujarat,Debit Card,30,Female,Retail,No Loan
+TXN00735,CUST0144,2025-07-06,Savings,Deposit,50758.59,242201.64,BR-023,Howrah,West Bengal,NEFT,48,Male,Premium,Approved
+TXN00736,CUST0052,2025-11-07,Current,Deposit,27671.87,5265.28,BR-028,Kolkata,West Bengal,IMPS,41,Male,Premium,No Loan
+TXN00737,CUST0271,2025-07-05,Current,Withdrawal,50475.18,60206.66,BR-039,Surat,Gujarat,IMPS,21,Male,Premium,No Loan
+TXN00738,CUST0098,2025-12-02,Current,Deposit,87856.92,48179.43,BR-013,Chennai,Tamil Nadu,UPI,29,Male,Retail,No Loan
+TXN00739,CUST0282,2025-08-03,Savings,Transfer,93042.05,154230.83,BR-046,Jaipur,Rajasthan,Cash,33,Male,Retail,Approved
+TXN00740,CUST0012,2025-09-15,Current,Withdrawal,94664.76,63127.32,BR-011,Warangal,Telangana,Cash,25,Female,Premium,No Loan
+TXN00741,CUST0039,2025-09-20,Current,Deposit,143392.54,35092.73,BR-011,Hyderabad,Telangana,IMPS,33,Female,Premium,No Loan
+TXN00742,CUST0005,2025-04-22,Current,Transfer,117016.14,203420.23,BR-033,Udaipur,Rajasthan,Credit Card,34,Male,Retail,Approved
+TXN00743,CUST0122,2025-10-01,Current,Withdrawal,127945.02,151700.02,BR-019,Udaipur,Rajasthan,Credit Card,56,Male,Retail,Approved
+TXN00744,CUST0178,2025-11-29,Current,Deposit,40930.01,396357.55,BR-041,Mumbai,Maharashtra,IMPS,36,Male,Corporate,Approved
+TXN00745,CUST0006,2025-11-17,Savings,Transfer,132655.96,135698.9,BR-023,Coimbatore,Tamil Nadu,Debit Card,47,Female,Premium,No Loan
+TXN00746,CUST0283,2025-11-17,Savings,Withdrawal,145754.9,271007.4,BR-014,Delhi,Delhi,NEFT,27,Female,Corporate,Rejected
+TXN00747,CUST0189,2025-08-11,Current,Withdrawal,30985.84,316751.33,BR-010,Jaipur,Rajasthan,Cash,30,Female,Retail,No Loan
+TXN00748,CUST0011,2025-05-25,Current,Deposit,69178.82,408721.0,BR-020,Jaipur,Rajasthan,Debit Card,33,Female,Corporate,Approved
+TXN00749,CUST0052,2025-07-26,Current,Transfer,91369.4,39379.79,BR-047,Ahmedabad,Gujarat,UPI,48,Male,Premium,No Loan
+TXN00750,CUST0138,2025-02-12,Savings,Transfer,15409.63,195075.32,BR-010,Vadodara,Gujarat,UPI,21,Male,Retail,Approved
+TXN00751,CUST0228,2025-10-16,Savings,Transfer,110551.66,172503.01,BR-011,Pune,Maharashtra,IMPS,26,Male,Retail,No Loan
+TXN00752,CUST0279,2025-02-22,Current,Deposit,36949.42,274045.59,BR-019,Warangal,Telangana,Credit Card,61,Male,Retail,No Loan
+TXN00753,CUST0116,2025-05-27,Current,Deposit,680.96,116034.81,BR-044,Mangaluru,Karnataka,Debit Card,48,Female,Retail,No Loan
+TXN00754,CUST0044,2025-07-04,Current,Deposit,148619.82,116138.62,BR-003,Kolkata,West Bengal,Credit Card,43,Male,Corporate,Rejected
+TXN00755,CUST0054,2025-06-28,Current,Transfer,50559.19,94775.92,BR-018,Ahmedabad,Gujarat,Cash,30,Female,Corporate,No Loan
+TXN00756,CUST0200,2025-03-17,Current,Withdrawal,121702.55,357096.81,BR-029,Udaipur,Rajasthan,UPI,21,Male,Corporate,Approved
+TXN00757,CUST0181,2025-07-17,Savings,Transfer,64404.25,364720.33,BR-021,Jaipur,Rajasthan,Debit Card,26,Female,Retail,Approved
+TXN00758,CUST0215,2025-07-16,Current,Transfer,145940.91,302862.84,BR-036,Jodhpur,Rajasthan,IMPS,42,Male,Corporate,No Loan
+TXN00759,CUST0113,2025-12-22,Current,Transfer,80663.78,118906.68,BR-045,Udaipur,Rajasthan,UPI,58,Female,Corporate,No Loan
+TXN00760,CUST0179,2025-01-31,Current,Deposit,30890.31,426044.58,BR-024,Bengaluru,Karnataka,Credit Card,56,Female,Retail,No Loan
+TXN00761,CUST0061,2025-03-12,Current,Deposit,125370.22,277992.69,BR-045,Surat,Gujarat,Cash,36,Male,Retail,Approved
+TXN00762,CUST0016,2025-03-22,Savings,Transfer,144754.52,188983.69,BR-010,Surat,Gujarat,IMPS,27,Male,Premium,No Loan
+TXN00763,CUST0154,2025-09-28,Savings,Deposit,12021.26,286745.66,BR-031,Chennai,Tamil Nadu,Cash,30,Male,Premium,No Loan
+TXN00764,CUST0083,2025-09-15,Current,Transfer,104439.43,146950.69,BR-001,Howrah,West Bengal,Debit Card,24,Male,Corporate,No Loan
+TXN00765,CUST0140,2025-03-22,Current,Transfer,106855.31,132736.91,BR-006,Howrah,West Bengal,NEFT,53,Female,Corporate,Approved
+TXN00766,CUST0208,2025-06-10,Savings,Withdrawal,93047.04,113358.67,BR-025,Kolkata,West Bengal,Debit Card,56,Male,Corporate,No Loan
+TXN00767,CUST0015,2025-06-21,Current,Transfer,63921.17,138610.18,BR-016,Ahmedabad,Gujarat,UPI,25,Female,Corporate,No Loan
+TXN00768,CUST0138,2025-05-04,Savings,Deposit,32180.54,10433.62,BR-006,Hyderabad,Telangana,Credit Card,33,Male,Corporate,No Loan
+TXN00769,CUST0100,2025-09-14,Current,Deposit,7683.31,51139.41,BR-021,Aurangabad,Maharashtra,Credit Card,21,Female,Premium,No Loan
+TXN00770,CUST0013,2025-03-18,Savings,Transfer,101365.62,169002.5,BR-038,Howrah,West Bengal,IMPS,53,Male,Corporate,No Loan
+TXN00771,CUST0073,2025-04-21,Savings,Withdrawal,24602.84,342775.12,BR-050,Howrah,West Bengal,UPI,61,Male,Corporate,Approved
+TXN00772,CUST0199,2025-12-16,Current,Withdrawal,117910.1,172815.25,BR-016,Vadodara,Gujarat,Credit Card,60,Female,Retail,No Loan
+TXN00773,CUST0256,2025-02-14,Savings,Transfer,94354.55,251273.8,BR-007,New Delhi,Delhi,UPI,30,Female,Corporate,No Loan
+TXN00774,CUST0133,2025-08-24,Savings,Withdrawal,24640.14,143658.07,BR-031,Jodhpur,Rajasthan,Credit Card,43,Male,Retail,Approved
+TXN00775,CUST0067,2025-12-15,Savings,Deposit,145766.26,246688.2,BR-029,Warangal,Telangana,Credit Card,39,Female,Premium,No Loan
+TXN00776,CUST0126,2025-01-30,Current,Withdrawal,12981.84,209531.15,BR-045,Madurai,Tamil Nadu,Cash,37,Male,Corporate,No Loan
+TXN00777,CUST0239,2025-06-28,Savings,Withdrawal,56685.34,287216.19,BR-030,Mumbai,Maharashtra,UPI,35,Female,Premium,No Loan
+TXN00778,CUST0176,2025-06-12,Savings,Deposit,109900.83,459142.87,BR-039,Jaipur,Rajasthan,Cash,48,Male,Premium,Rejected
+TXN00779,CUST0017,2025-10-18,Current,Deposit,42117.07,23949.76,BR-039,Jaipur,Rajasthan,Debit Card,51,Male,Corporate,Approved
+TXN00780,CUST0043,2025-04-01,Current,Withdrawal,146794.84,110643.31,BR-010,Kolkata,West Bengal,Debit Card,22,Female,Premium,Rejected
+TXN00781,CUST0028,2025-04-05,Current,Deposit,45101.35,357542.32,BR-006,Mysuru,Karnataka,Cash,54,Male,Corporate,No Loan
+TXN00782,CUST0293,2025-12-21,Current,Deposit,30191.49,471261.11,BR-025,Howrah,West Bengal,Cash,51,Male,Corporate,No Loan
+TXN00783,CUST0076,2025-08-23,Savings,Deposit,108547.19,291352.23,BR-032,Aurangabad,Maharashtra,Debit Card,41,Female,Retail,Approved
+TXN00784,CUST0019,2025-02-19,Current,Withdrawal,78343.41,6820.06,BR-014,Chennai,Tamil Nadu,Cash,29,Female,Corporate,No Loan
+TXN00785,CUST0155,2025-01-09,Savings,Transfer,56944.71,177302.35,BR-020,Delhi,Delhi,Debit Card,64,Male,Premium,No Loan
+TXN00786,CUST0059,2025-06-21,Current,Transfer,149857.7,209956.59,BR-012,Mangaluru,Karnataka,Credit Card,43,Female,Corporate,No Loan
+TXN00787,CUST0146,2025-08-12,Current,Deposit,83136.66,85515.28,BR-045,Jodhpur,Rajasthan,Cash,45,Female,Corporate,No Loan
+TXN00788,CUST0052,2025-10-06,Savings,Deposit,97618.88,310048.88,BR-041,Bengaluru,Karnataka,Cash,27,Female,Corporate,No Loan
+TXN00789,CUST0064,2025-08-29,Savings,Transfer,43840.72,213217.22,BR-023,Udaipur,Rajasthan,Debit Card,50,Female,Retail,Approved
+TXN00790,CUST0124,2025-08-01,Current,Deposit,140972.71,392187.05,BR-001,Jodhpur,Rajasthan,NEFT,39,Female,Corporate,Rejected
+TXN00791,CUST0221,2025-10-20,Savings,Deposit,23429.61,190330.84,BR-016,Kolkata,West Bengal,NEFT,59,Female,Premium,Approved
+TXN00792,CUST0265,2025-06-12,Current,Deposit,120299.08,291037.54,BR-011,Kolkata,West Bengal,Debit Card,61,Female,Corporate,Approved
+TXN00793,CUST0082,2025-10-11,Savings,Transfer,120275.21,254607.24,BR-021,Kolkata,West Bengal,IMPS,57,Female,Corporate,No Loan
+TXN00794,CUST0293,2025-02-10,Savings,Deposit,65894.45,316302.59,BR-025,New Delhi,Delhi,NEFT,30,Male,Corporate,No Loan
+TXN00795,CUST0194,2025-05-06,Current,Transfer,94909.52,182270.07,BR-050,Mumbai,Maharashtra,Debit Card,62,Male,Premium,Approved
+TXN00796,CUST0063,2025-11-02,Current,Deposit,140278.9,315581.81,BR-007,Hyderabad,Telangana,IMPS,58,Male,Retail,No Loan
+TXN00797,CUST0212,2025-01-12,Current,Deposit,14370.18,249651.3,BR-005,Surat,Gujarat,Credit Card,34,Female,Retail,No Loan
+TXN00798,CUST0092,2025-01-06,Savings,Deposit,103256.79,190750.91,BR-043,Udaipur,Rajasthan,Credit Card,61,Female,Retail,Approved
+TXN00799,CUST0099,2025-03-04,Current,Withdrawal,72844.69,308932.47,BR-039,Pune,Maharashtra,NEFT,21,Male,Corporate,No Loan
+TXN00800,CUST0043,2025-04-23,Savings,Transfer,77005.84,80411.28,BR-047,Aurangabad,Maharashtra,Credit Card,28,Male,Retail,Rejected
+TXN00801,CUST0224,2025-09-11,Current,Withdrawal,30286.01,50525.07,BR-033,Surat,Gujarat,IMPS,56,Female,Premium,No Loan
+TXN00802,CUST0160,2025-10-28,Current,Deposit,30082.53,423787.71,BR-011,Kolkata,West Bengal,IMPS,38,Female,Retail,No Loan
+TXN00803,CUST0291,2025-04-13,Current,Withdrawal,63848.73,374804.24,BR-023,Delhi,Delhi,Credit Card,60,Male,Corporate,No Loan
+TXN00804,CUST0272,2025-11-27,Savings,Withdrawal,25503.73,21711.21,BR-023,Madurai,Tamil Nadu,NEFT,37,Female,Premium,No Loan
+TXN00805,CUST0191,2025-07-10,Savings,Deposit,121451.55,217546.47,BR-010,Kolkata,West Bengal,Debit Card,43,Male,Retail,Approved
+TXN00806,CUST0146,2025-07-17,Savings,Withdrawal,103399.72,359817.3,BR-039,Chennai,Tamil Nadu,Debit Card,50,Female,Retail,No Loan
+TXN00807,CUST0164,2025-06-12,Savings,Transfer,42068.25,305912.67,BR-013,New Delhi,Delhi,IMPS,25,Female,Corporate,No Loan
+TXN00808,CUST0197,2025-10-30,Current,Withdrawal,7495.38,140835.65,BR-016,New Delhi,Delhi,UPI,28,Female,Retail,No Loan
+TXN00809,CUST0019,2025-07-26,Savings,Transfer,117604.19,290000.58,BR-035,Nashik,Maharashtra,UPI,50,Female,Retail,No Loan
+TXN00810,CUST0041,2025-07-24,Savings,Deposit,70749.06,415775.86,BR-036,Nashik,Maharashtra,Cash,40,Female,Premium,No Loan
+TXN00811,CUST0015,2025-02-22,Savings,Withdrawal,45117.35,492063.58,BR-015,Coimbatore,Tamil Nadu,Cash,62,Male,Premium,No Loan
+TXN00812,CUST0276,2025-07-08,Savings,Deposit,149034.29,431387.44,BR-001,Pune,Maharashtra,IMPS,48,Male,Retail,Approved
+TXN00813,CUST0299,2025-03-12,Savings,Deposit,7676.51,155623.6,BR-030,Nashik,Maharashtra,Credit Card,42,Female,Premium,No Loan
+TXN00814,CUST0124,2025-09-28,Current,Deposit,113078.71,444460.21,BR-037,Bengaluru,Karnataka,Cash,61,Female,Corporate,Approved
+TXN00815,CUST0286,2025-06-30,Current,Withdrawal,48625.75,366777.97,BR-016,Udaipur,Rajasthan,Debit Card,26,Female,Premium,No Loan
+TXN00816,CUST0107,2025-06-24,Savings,Withdrawal,9509.91,11498.41,BR-038,New Delhi,Delhi,Debit Card,50,Female,Retail,No Loan
+TXN00817,CUST0263,2025-11-14,Current,Transfer,23522.84,254733.15,BR-013,Coimbatore,Tamil Nadu,Debit Card,35,Female,Premium,No Loan
+TXN00818,CUST0057,2025-02-24,Savings,Withdrawal,63752.55,344701.67,BR-016,Kolkata,West Bengal,NEFT,62,Male,Retail,No Loan
+TXN00819,CUST0182,2025-02-13,Savings,Withdrawal,4773.64,332633.32,BR-028,Nagpur,Maharashtra,Cash,43,Female,Retail,No Loan
+TXN00820,CUST0217,2025-07-15,Current,Transfer,64911.84,170201.05,BR-013,New Delhi,Delhi,Cash,38,Female,Retail,Approved
+TXN00821,CUST0128,2025-11-27,Current,Deposit,89310.35,267133.56,BR-008,Hyderabad,Telangana,Cash,54,Female,Retail,No Loan
+TXN00822,CUST0208,2025-12-25,Savings,Deposit,86496.96,123189.73,BR-026,New Delhi,Delhi,NEFT,27,Female,Retail,No Loan
+TXN00823,CUST0148,2025-05-28,Savings,Transfer,123698.26,347383.47,BR-047,Kolkata,West Bengal,Cash,34,Male,Retail,Rejected
+TXN00824,CUST0086,2025-02-05,Savings,Transfer,136213.47,312948.58,BR-012,Pune,Maharashtra,IMPS,40,Male,Retail,Rejected
+TXN00825,CUST0181,2025-01-05,Savings,Deposit,100071.69,216821.66,BR-031,Coimbatore,Tamil Nadu,UPI,32,Female,Retail,Approved
+TXN00826,CUST0076,2025-03-27,Savings,Withdrawal,16853.21,410368.59,BR-050,Nagpur,Maharashtra,NEFT,64,Female,Retail,No Loan
+TXN00827,CUST0235,2025-07-06,Current,Transfer,50683.76,247877.62,BR-001,Bengaluru,Karnataka,Credit Card,55,Female,Corporate,No Loan
+TXN00828,CUST0011,2025-11-24,Current,Transfer,116291.68,429193.3,BR-010,Coimbatore,Tamil Nadu,NEFT,51,Male,Premium,No Loan
+TXN00829,CUST0100,2025-02-15,Savings,Withdrawal,74925.92,125962.06,BR-025,Kolkata,West Bengal,IMPS,65,Female,Premium,Approved
+TXN00830,CUST0159,2025-05-22,Current,Transfer,26655.36,455612.03,BR-013,Mysuru,Karnataka,Credit Card,42,Female,Corporate,No Loan
+TXN00831,CUST0076,2025-09-13,Current,Transfer,18882.71,398689.79,BR-030,Aurangabad,Maharashtra,NEFT,43,Female,Retail,No Loan
+TXN00832,CUST0112,2025-01-21,Current,Transfer,83942.06,85490.38,BR-019,Vadodara,Gujarat,Cash,39,Male,Premium,Approved
+TXN00833,CUST0258,2025-05-26,Current,Withdrawal,1260.99,179366.48,BR-043,Bengaluru,Karnataka,UPI,24,Female,Retail,No Loan
+TXN00834,CUST0128,2025-07-01,Current,Deposit,149389.18,102380.07,BR-044,Ahmedabad,Gujarat,NEFT,26,Female,Retail,Approved
+TXN00835,CUST0297,2025-06-15,Current,Deposit,134008.53,460496.09,BR-009,Howrah,West Bengal,NEFT,40,Male,Corporate,No Loan
+TXN00836,CUST0050,2025-08-12,Savings,Withdrawal,83365.42,154025.82,BR-009,Delhi,Delhi,UPI,40,Female,Corporate,Approved
+TXN00837,CUST0237,2025-07-30,Current,Transfer,140264.53,357736.26,BR-002,Udaipur,Rajasthan,Cash,43,Female,Premium,No Loan
+TXN00838,CUST0151,2025-10-17,Savings,Deposit,92473.68,154683.04,BR-004,Nagpur,Maharashtra,Debit Card,58,Female,Retail,No Loan
+TXN00839,CUST0055,2025-11-29,Current,Transfer,1389.95,404703.11,BR-022,Kolkata,West Bengal,NEFT,50,Male,Retail,Approved
+TXN00840,CUST0288,2025-03-15,Current,Transfer,50030.49,35128.06,BR-048,Mysuru,Karnataka,IMPS,58,Male,Corporate,Approved
+TXN00841,CUST0059,2025-04-13,Savings,Transfer,96130.39,81613.87,BR-005,Jaipur,Rajasthan,IMPS,40,Male,Premium,No Loan
+TXN00842,CUST0154,2025-03-04,Savings,Transfer,14981.11,106125.36,BR-026,Mumbai,Maharashtra,Cash,22,Female,Premium,Approved
+TXN00843,CUST0095,2025-01-12,Savings,Transfer,39410.59,308316.23,BR-010,Jaipur,Rajasthan,Cash,63,Male,Premium,Approved
+TXN00844,CUST0198,2025-07-20,Savings,Withdrawal,72329.74,148277.27,BR-045,New Delhi,Delhi,UPI,58,Female,Premium,No Loan
+TXN00845,CUST0228,2025-01-18,Current,Withdrawal,22650.9,145294.0,BR-003,Mysuru,Karnataka,UPI,57,Female,Retail,No Loan
+TXN00846,CUST0200,2025-09-26,Current,Transfer,69023.35,9514.43,BR-033,Chennai,Tamil Nadu,Debit Card,43,Male,Premium,No Loan
+TXN00847,CUST0035,2025-07-21,Savings,Withdrawal,98562.04,283758.14,BR-042,Bengaluru,Karnataka,Cash,29,Female,Corporate,Rejected
+TXN00848,CUST0298,2025-10-29,Current,Transfer,99016.29,290139.28,BR-023,Jodhpur,Rajasthan,NEFT,63,Female,Retail,No Loan
+TXN00849,CUST0166,2025-09-01,Savings,Deposit,127878.66,83793.94,BR-049,Kolkata,West Bengal,UPI,63,Male,Premium,No Loan
+TXN00850,CUST0038,2025-01-20,Savings,Deposit,109360.39,195121.31,BR-029,New Delhi,Delhi,Cash,25,Male,Corporate,Rejected
+TXN00851,CUST0147,2025-08-13,Savings,Deposit,48513.3,350869.23,BR-015,Madurai,Tamil Nadu,Cash,29,Male,Retail,Rejected
+TXN00852,CUST0003,2025-03-13,Current,Transfer,121396.5,100186.43,BR-024,New Delhi,Delhi,NEFT,22,Male,Retail,Approved
+TXN00853,CUST0243,2025-10-20,Current,Deposit,102513.0,479083.09,BR-033,Kolkata,West Bengal,IMPS,62,Female,Retail,No Loan
+TXN00854,CUST0052,2025-06-02,Savings,Deposit,66112.27,314608.0,BR-008,Coimbatore,Tamil Nadu,UPI,57,Male,Retail,No Loan
+TXN00855,CUST0148,2025-03-22,Savings,Transfer,81310.43,16158.53,BR-005,Jaipur,Rajasthan,Credit Card,37,Female,Corporate,No Loan
+TXN00856,CUST0174,2025-01-17,Current,Transfer,8968.91,350271.36,BR-027,Delhi,Delhi,UPI,58,Female,Premium,No Loan
+TXN00857,CUST0019,2025-10-16,Current,Deposit,21323.65,275808.24,BR-023,Hyderabad,Telangana,IMPS,42,Male,Retail,No Loan
+TXN00858,CUST0180,2025-04-26,Savings,Transfer,72076.34,69084.97,BR-028,Mysuru,Karnataka,IMPS,23,Male,Retail,No Loan
+TXN00859,CUST0283,2025-01-10,Savings,Deposit,139721.36,18045.14,BR-031,Jodhpur,Rajasthan,Debit Card,55,Female,Corporate,No Loan
+TXN00860,CUST0189,2025-11-12,Current,Transfer,19222.99,352162.2,BR-023,Nagpur,Maharashtra,NEFT,29,Male,Premium,Approved
+TXN00861,CUST0291,2025-10-02,Current,Deposit,36106.45,50535.45,BR-003,Delhi,Delhi,UPI,35,Female,Corporate,No Loan
+TXN00862,CUST0150,2025-05-06,Savings,Deposit,8969.86,222085.16,BR-009,Mumbai,Maharashtra,Credit Card,23,Female,Premium,No Loan
+TXN00863,CUST0113,2025-07-02,Savings,Transfer,11982.17,128848.43,BR-029,Howrah,West Bengal,NEFT,34,Female,Corporate,No Loan
+TXN00864,CUST0249,2025-07-30,Current,Transfer,37008.77,447024.35,BR-018,Warangal,Telangana,Credit Card,65,Male,Retail,Rejected
+TXN00865,CUST0019,2025-03-14,Savings,Transfer,34965.12,372244.79,BR-016,Bengaluru,Karnataka,Debit Card,28,Female,Corporate,No Loan
+TXN00866,CUST0031,2025-02-13,Current,Deposit,3682.8,418980.98,BR-018,Udaipur,Rajasthan,Credit Card,38,Female,Premium,No Loan
+TXN00867,CUST0157,2025-01-27,Savings,Withdrawal,58007.16,26985.7,BR-003,Howrah,West Bengal,Debit Card,45,Male,Corporate,No Loan
+TXN00868,CUST0056,2025-01-30,Current,Withdrawal,121631.43,297524.52,BR-036,Chennai,Tamil Nadu,UPI,42,Female,Premium,No Loan
+TXN00869,CUST0068,2025-05-02,Current,Withdrawal,86104.08,286310.01,BR-001,Howrah,West Bengal,NEFT,37,Male,Premium,No Loan
+TXN00870,CUST0129,2025-05-18,Savings,Deposit,115815.21,151433.33,BR-042,Warangal,Telangana,NEFT,46,Male,Corporate,Rejected
+TXN00871,CUST0019,2025-08-27,Current,Transfer,99286.08,418819.9,BR-023,Pune,Maharashtra,Debit Card,49,Female,Retail,No Loan
+TXN00872,CUST0142,2025-05-13,Savings,Withdrawal,9258.43,469722.96,BR-017,Udaipur,Rajasthan,Credit Card,60,Female,Retail,No Loan
+TXN00873,CUST0260,2025-04-05,Savings,Transfer,26587.05,436263.4,BR-029,Jaipur,Rajasthan,IMPS,24,Male,Retail,No Loan
+TXN00874,CUST0121,2025-11-04,Savings,Deposit,142779.72,496025.71,BR-023,Chennai,Tamil Nadu,Credit Card,22,Female,Corporate,No Loan
+TXN00875,CUST0219,2025-11-25,Current,Deposit,76899.81,122304.46,BR-019,Bengaluru,Karnataka,Credit Card,57,Female,Corporate,No Loan
+TXN00876,CUST0016,2025-05-31,Current,Transfer,118330.59,170817.96,BR-011,Ahmedabad,Gujarat,Cash,62,Female,Premium,No Loan
+TXN00877,CUST0298,2025-09-18,Current,Deposit,136824.96,17639.97,BR-046,Chennai,Tamil Nadu,NEFT,34,Female,Corporate,No Loan
+TXN00878,CUST0290,2025-04-25,Current,Transfer,5373.63,364498.58,BR-033,Chennai,Tamil Nadu,Cash,62,Male,Retail,No Loan
+TXN00879,CUST0125,2025-05-31,Savings,Transfer,71113.21,264601.8,BR-022,Kolkata,West Bengal,Cash,41,Female,Retail,No Loan
+TXN00880,CUST0186,2025-07-29,Savings,Withdrawal,47565.05,486336.44,BR-006,Delhi,Delhi,IMPS,36,Female,Corporate,No Loan
+TXN00881,CUST0276,2025-03-06,Savings,Withdrawal,98172.82,304583.2,BR-016,Madurai,Tamil Nadu,Cash,47,Male,Corporate,No Loan
+TXN00882,CUST0093,2025-04-12,Current,Withdrawal,51564.98,63392.19,BR-030,Kolkata,West Bengal,Cash,47,Male,Corporate,No Loan
+TXN00883,CUST0086,2025-01-13,Savings,Withdrawal,39874.73,279516.5,BR-005,Mumbai,Maharashtra,Cash,27,Male,Retail,No Loan
+TXN00884,CUST0056,2025-06-22,Current,Withdrawal,53477.98,204147.17,BR-047,Vadodara,Gujarat,NEFT,36,Female,Retail,Rejected
+TXN00885,CUST0261,2025-04-04,Current,Withdrawal,136645.8,317261.84,BR-006,Pune,Maharashtra,IMPS,48,Female,Premium,No Loan
+TXN00886,CUST0175,2025-09-10,Current,Transfer,97586.01,192790.42,BR-004,Ahmedabad,Gujarat,Cash,32,Female,Retail,Approved
+TXN00887,CUST0161,2025-10-22,Current,Withdrawal,48127.46,93315.83,BR-007,Howrah,West Bengal,Debit Card,23,Male,Premium,No Loan
+TXN00888,CUST0119,2025-02-24,Savings,Deposit,43532.55,245884.68,BR-043,Coimbatore,Tamil Nadu,Debit Card,31,Female,Premium,No Loan
+TXN00889,CUST0004,2025-04-10,Savings,Deposit,83048.43,256805.59,BR-032,Hyderabad,Telangana,Debit Card,22,Male,Corporate,No Loan
+TXN00890,CUST0062,2025-02-26,Savings,Withdrawal,141299.99,287726.76,BR-029,Nashik,Maharashtra,IMPS,49,Male,Premium,Rejected
+TXN00891,CUST0039,2025-04-24,Current,Deposit,129743.16,496573.24,BR-021,Howrah,West Bengal,IMPS,63,Male,Premium,No Loan
+TXN00892,CUST0267,2025-12-28,Current,Withdrawal,68292.88,369083.26,BR-021,Vadodara,Gujarat,IMPS,25,Female,Retail,No Loan
+TXN00893,CUST0096,2025-09-06,Savings,Deposit,20962.76,191223.48,BR-047,New Delhi,Delhi,Debit Card,64,Male,Premium,No Loan
+TXN00894,CUST0107,2025-10-13,Savings,Deposit,95398.52,48912.3,BR-046,Jodhpur,Rajasthan,NEFT,34,Male,Premium,Approved
+TXN00895,CUST0154,2025-04-03,Current,Transfer,39829.54,193243.66,BR-015,Ahmedabad,Gujarat,NEFT,36,Female,Premium,No Loan
+TXN00896,CUST0215,2025-05-28,Current,Transfer,59135.4,181778.3,BR-029,Warangal,Telangana,Cash,39,Male,Retail,Approved
+TXN00897,CUST0248,2025-03-07,Current,Deposit,26841.07,478376.19,BR-032,Chennai,Tamil Nadu,IMPS,28,Female,Corporate,No Loan
+TXN00898,CUST0201,2025-07-30,Savings,Withdrawal,40554.62,111477.56,BR-029,Kolkata,West Bengal,Cash,24,Female,Premium,No Loan
+TXN00899,CUST0294,2025-04-24,Current,Deposit,40613.43,365452.49,BR-011,Howrah,West Bengal,Credit Card,61,Male,Premium,No Loan
+TXN00900,CUST0181,2025-06-20,Current,Deposit,90941.7,14860.36,BR-050,New Delhi,Delhi,IMPS,22,Female,Retail,No Loan
+TXN00901,CUST0192,2025-03-24,Savings,Transfer,31964.28,270058.97,BR-022,Mangaluru,Karnataka,Debit Card,55,Female,Corporate,Approved
+TXN00902,CUST0155,2025-05-25,Savings,Deposit,5893.21,14914.04,BR-002,Kolkata,West Bengal,NEFT,27,Female,Premium,Approved
+TXN00903,CUST0044,2025-05-19,Savings,Withdrawal,112612.35,407432.94,BR-005,New Delhi,Delhi,Cash,62,Female,Retail,No Loan
+TXN00904,CUST0100,2025-07-20,Current,Deposit,2703.9,415974.5,BR-039,Mangaluru,Karnataka,NEFT,30,Male,Corporate,No Loan
+TXN00905,CUST0242,2025-10-23,Current,Transfer,111650.76,154566.22,BR-025,Warangal,Telangana,Cash,33,Male,Premium,No Loan
+TXN00906,CUST0202,2025-09-12,Savings,Deposit,145049.51,282693.15,BR-024,Warangal,Telangana,Cash,39,Male,Premium,Approved
+TXN00907,CUST0160,2025-11-26,Savings,Transfer,146290.99,201687.57,BR-022,Mysuru,Karnataka,Debit Card,49,Female,Premium,No Loan
+TXN00908,CUST0243,2025-11-12,Savings,Deposit,84352.37,107802.5,BR-034,Vadodara,Gujarat,Cash,58,Male,Retail,Approved
+TXN00909,CUST0003,2025-07-28,Current,Withdrawal,62072.86,371553.01,BR-018,New Delhi,Delhi,Debit Card,23,Female,Corporate,No Loan
+TXN00910,CUST0193,2025-02-09,Current,Withdrawal,143941.55,121690.97,BR-009,Delhi,Delhi,Cash,51,Male,Retail,No Loan
+TXN00911,CUST0250,2025-09-26,Savings,Deposit,30006.46,435525.84,BR-009,Mumbai,Maharashtra,UPI,23,Female,Premium,Approved
+TXN00912,CUST0289,2025-07-10,Savings,Withdrawal,18078.7,497893.43,BR-042,Howrah,West Bengal,IMPS,64,Female,Corporate,Rejected
+TXN00913,CUST0070,2025-06-19,Current,Transfer,102911.07,402392.8,BR-011,Ahmedabad,Gujarat,IMPS,44,Female,Premium,No Loan
+TXN00914,CUST0235,2025-10-03,Current,Withdrawal,27294.25,237894.25,BR-022,Jaipur,Rajasthan,UPI,40,Male,Retail,No Loan
+TXN00915,CUST0141,2025-04-09,Current,Transfer,23889.73,178474.13,BR-019,Bengaluru,Karnataka,NEFT,35,Female,Corporate,Approved
+TXN00916,CUST0111,2025-02-22,Current,Transfer,115164.83,467482.42,BR-018,Howrah,West Bengal,NEFT,55,Male,Retail,No Loan
+TXN00917,CUST0243,2025-12-09,Savings,Deposit,119634.23,295721.95,BR-014,Surat,Gujarat,Cash,42,Female,Corporate,No Loan
+TXN00918,CUST0040,2025-06-15,Savings,Deposit,14155.07,402660.15,BR-004,Ahmedabad,Gujarat,Debit Card,30,Male,Premium,No Loan
+TXN00919,CUST0243,2025-07-17,Current,Withdrawal,99893.91,166909.24,BR-023,Vadodara,Gujarat,NEFT,28,Male,Corporate,No Loan
+TXN00920,CUST0129,2025-09-08,Savings,Transfer,126407.59,477903.26,BR-044,Warangal,Telangana,IMPS,38,Male,Premium,No Loan
+TXN00921,CUST0287,2025-11-12,Current,Transfer,52552.98,17521.3,BR-013,Mangaluru,Karnataka,Credit Card,50,Female,Corporate,No Loan
+TXN00922,CUST0049,2025-06-18,Savings,Transfer,149318.04,101938.86,BR-024,Howrah,West Bengal,Credit Card,54,Male,Retail,No Loan
+TXN00923,CUST0016,2025-10-20,Current,Deposit,97259.11,322628.66,BR-046,Hyderabad,Telangana,Cash,23,Female,Premium,No Loan
+TXN00924,CUST0079,2025-11-10,Current,Withdrawal,26478.76,376218.32,BR-046,Udaipur,Rajasthan,IMPS,55,Male,Retail,No Loan
+TXN00925,CUST0143,2025-10-06,Savings,Withdrawal,125192.63,64116.25,BR-013,Ahmedabad,Gujarat,Cash,61,Male,Premium,Approved
+TXN00926,CUST0032,2025-12-08,Current,Transfer,25797.43,493203.79,BR-005,Nashik,Maharashtra,IMPS,44,Male,Corporate,No Loan
+TXN00927,CUST0160,2025-01-02,Current,Deposit,26301.49,27031.67,BR-018,New Delhi,Delhi,NEFT,33,Female,Retail,No Loan
+TXN00928,CUST0045,2025-04-04,Current,Withdrawal,85441.9,349664.63,BR-012,Chennai,Tamil Nadu,NEFT,50,Male,Retail,No Loan
+TXN00929,CUST0098,2025-06-07,Savings,Deposit,118416.13,112675.3,BR-048,Madurai,Tamil Nadu,Credit Card,50,Male,Corporate,No Loan
+TXN00930,CUST0140,2025-04-07,Savings,Withdrawal,106034.14,93112.0,BR-013,Surat,Gujarat,Debit Card,57,Female,Premium,Approved
+TXN00931,CUST0231,2025-09-25,Current,Transfer,66219.95,50743.97,BR-041,Surat,Gujarat,Credit Card,58,Female,Premium,No Loan
+TXN00932,CUST0107,2025-05-28,Current,Deposit,80923.34,109278.08,BR-022,Ahmedabad,Gujarat,IMPS,48,Female,Corporate,No Loan
+TXN00933,CUST0166,2025-10-28,Savings,Withdrawal,33129.11,134118.73,BR-024,Hyderabad,Telangana,UPI,54,Male,Premium,Approved
+TXN00934,CUST0052,2025-11-28,Current,Transfer,16139.64,182647.65,BR-012,Kolkata,West Bengal,UPI,31,Female,Premium,Rejected
+TXN00935,CUST0205,2025-08-11,Savings,Withdrawal,82243.33,377262.36,BR-031,Coimbatore,Tamil Nadu,Cash,60,Female,Corporate,No Loan
+TXN00936,CUST0138,2025-08-07,Current,Transfer,51012.8,340885.14,BR-037,Delhi,Delhi,Credit Card,23,Male,Corporate,Approved
+TXN00937,CUST0171,2025-03-08,Savings,Transfer,25374.52,153788.47,BR-004,Kolkata,West Bengal,NEFT,65,Male,Corporate,No Loan
+TXN00938,CUST0158,2025-06-04,Savings,Withdrawal,69077.67,86844.33,BR-006,Mysuru,Karnataka,UPI,63,Male,Retail,No Loan
+TXN00939,CUST0052,2025-06-26,Savings,Withdrawal,13979.95,126142.6,BR-031,Ahmedabad,Gujarat,IMPS,56,Female,Retail,No Loan
+TXN00940,CUST0205,2025-03-10,Current,Transfer,56755.59,234424.57,BR-050,Kolkata,West Bengal,Debit Card,27,Female,Retail,Rejected
+TXN00941,CUST0121,2025-04-02,Current,Transfer,59380.63,40470.11,BR-024,Coimbatore,Tamil Nadu,Cash,63,Male,Retail,No Loan
+TXN00942,CUST0109,2025-01-23,Savings,Transfer,90075.94,202099.48,BR-020,Coimbatore,Tamil Nadu,UPI,62,Male,Retail,No Loan
+TXN00943,CUST0134,2025-01-18,Current,Withdrawal,98279.72,215727.1,BR-027,Kolkata,West Bengal,Credit Card,40,Female,Corporate,No Loan
+TXN00944,CUST0083,2025-01-07,Current,Transfer,77843.61,57683.13,BR-021,Ahmedabad,Gujarat,UPI,43,Male,Corporate,No Loan
+TXN00945,CUST0060,2025-05-13,Current,Transfer,68476.46,245639.0,BR-039,Vadodara,Gujarat,IMPS,46,Female,Retail,Rejected
+TXN00946,CUST0041,2025-07-16,Current,Withdrawal,106947.51,422863.36,BR-010,Udaipur,Rajasthan,Credit Card,28,Male,Premium,No Loan
+TXN00947,CUST0251,2025-03-04,Current,Deposit,77476.99,309187.46,BR-030,Nashik,Maharashtra,Cash,48,Male,Premium,Rejected
+TXN00948,CUST0009,2025-08-02,Current,Withdrawal,64142.53,339123.16,BR-029,Chennai,Tamil Nadu,UPI,55,Female,Retail,Rejected
+TXN00949,CUST0065,2025-02-18,Savings,Transfer,17196.65,367292.64,BR-047,Coimbatore,Tamil Nadu,NEFT,46,Male,Retail,Approved
+TXN00950,CUST0235,2025-10-19,Current,Withdrawal,133961.14,175966.21,BR-003,Vadodara,Gujarat,Cash,65,Male,Corporate,No Loan
+TXN00951,CUST0173,2025-02-10,Current,Deposit,22439.19,488537.45,BR-041,Mysuru,Karnataka,IMPS,27,Female,Corporate,No Loan
+TXN00952,CUST0293,2025-04-09,Current,Deposit,27997.59,374649.68,BR-017,Warangal,Telangana,IMPS,62,Male,Premium,No Loan
+TXN00953,CUST0205,2025-01-24,Savings,Withdrawal,86213.73,111528.59,BR-012,Hyderabad,Telangana,Cash,38,Male,Premium,No Loan
+TXN00954,CUST0163,2025-11-22,Savings,Withdrawal,31466.88,392115.03,BR-007,Warangal,Telangana,IMPS,29,Female,Premium,No Loan
+TXN00955,CUST0169,2025-11-01,Savings,Transfer,49029.02,36542.62,BR-035,New Delhi,Delhi,Credit Card,59,Female,Corporate,No Loan
+TXN00956,CUST0088,2025-09-30,Savings,Withdrawal,51419.1,176451.33,BR-044,Howrah,West Bengal,Cash,30,Female,Corporate,No Loan
+TXN00957,CUST0107,2025-02-12,Current,Deposit,99274.42,287800.08,BR-048,Howrah,West Bengal,UPI,61,Female,Corporate,No Loan
+TXN00958,CUST0213,2025-08-09,Current,Withdrawal,67999.13,236353.15,BR-049,Coimbatore,Tamil Nadu,Debit Card,60,Male,Corporate,No Loan
+TXN00959,CUST0057,2025-04-19,Current,Deposit,56605.01,271108.39,BR-037,Nashik,Maharashtra,Cash,59,Male,Retail,No Loan
+TXN00960,CUST0055,2025-07-05,Savings,Transfer,146845.03,277284.83,BR-043,Hyderabad,Telangana,Credit Card,34,Female,Corporate,Rejected
+TXN00961,CUST0205,2025-04-01,Current,Deposit,128928.96,249942.44,BR-019,Madurai,Tamil Nadu,Cash,39,Female,Retail,No Loan
+TXN00962,CUST0015,2025-11-22,Current,Withdrawal,98600.5,343259.13,BR-040,Aurangabad,Maharashtra,UPI,45,Female,Premium,No Loan
+TXN00963,CUST0047,2025-08-30,Savings,Transfer,85802.41,207343.76,BR-024,New Delhi,Delhi,UPI,41,Male,Retail,No Loan
+TXN00964,CUST0242,2025-03-31,Current,Transfer,76944.65,100550.63,BR-046,Aurangabad,Maharashtra,Debit Card,50,Female,Corporate,No Loan
+TXN00965,CUST0124,2025-08-16,Savings,Withdrawal,10189.52,20290.43,BR-012,Delhi,Delhi,NEFT,50,Female,Retail,No Loan
+TXN00966,CUST0017,2025-01-04,Savings,Transfer,125762.38,436682.3,BR-044,Udaipur,Rajasthan,Debit Card,36,Female,Corporate,No Loan
+TXN00967,CUST0274,2025-11-28,Current,Deposit,117564.89,478999.53,BR-046,Howrah,West Bengal,IMPS,55,Male,Corporate,No Loan
+TXN00968,CUST0226,2025-09-19,Current,Transfer,9438.05,406772.88,BR-028,Nagpur,Maharashtra,IMPS,23,Female,Premium,No Loan
+TXN00969,CUST0125,2025-03-14,Savings,Withdrawal,113812.09,292006.93,BR-031,Bengaluru,Karnataka,UPI,31,Female,Premium,No Loan
+TXN00970,CUST0228,2025-12-19,Savings,Withdrawal,96484.32,41664.43,BR-022,Delhi,Delhi,IMPS,52,Male,Premium,Rejected
+TXN00971,CUST0289,2025-07-09,Current,Transfer,41657.2,22693.6,BR-024,Udaipur,Rajasthan,Debit Card,30,Female,Retail,Approved
+TXN00972,CUST0066,2025-12-22,Savings,Transfer,95267.24,240266.0,BR-010,Warangal,Telangana,Cash,64,Female,Retail,No Loan
+TXN00973,CUST0261,2025-07-06,Current,Transfer,34573.75,426204.98,BR-048,Warangal,Telangana,NEFT,40,Male,Corporate,Approved
+TXN00974,CUST0087,2025-09-06,Savings,Withdrawal,96755.8,295632.04,BR-034,Howrah,West Bengal,NEFT,41,Female,Premium,No Loan
+TXN00975,CUST0062,2025-05-23,Current,Withdrawal,2627.77,473739.39,BR-042,Jaipur,Rajasthan,Credit Card,35,Female,Retail,Approved
+TXN00976,CUST0017,2025-12-07,Current,Withdrawal,85626.49,321125.11,BR-026,Delhi,Delhi,UPI,54,Male,Corporate,Approved
+TXN00977,CUST0127,2025-09-25,Savings,Withdrawal,83216.03,269703.17,BR-016,Mysuru,Karnataka,IMPS,55,Male,Retail,No Loan
+TXN00978,CUST0033,2025-04-08,Savings,Deposit,103600.8,230752.7,BR-009,Hyderabad,Telangana,UPI,59,Female,Corporate,Rejected
+TXN00979,CUST0164,2025-01-27,Savings,Deposit,36969.12,382031.85,BR-041,Hyderabad,Telangana,Cash,50,Male,Corporate,No Loan
+TXN00980,CUST0005,2025-10-19,Current,Deposit,66563.76,240637.72,BR-038,Bengaluru,Karnataka,UPI,55,Male,Corporate,No Loan
+TXN00981,CUST0139,2025-11-04,Current,Transfer,29622.42,403854.1,BR-032,Kolkata,West Bengal,NEFT,50,Male,Premium,No Loan
+TXN00982,CUST0258,2025-10-15,Current,Transfer,42921.48,324413.42,BR-020,Surat,Gujarat,Credit Card,55,Male,Premium,Rejected
+TXN00983,CUST0156,2025-08-10,Savings,Withdrawal,1474.33,447216.76,BR-007,Jaipur,Rajasthan,NEFT,51,Female,Retail,Approved
+TXN00984,CUST0053,2025-08-30,Savings,Deposit,116929.37,382612.06,BR-044,Jodhpur,Rajasthan,Debit Card,40,Female,Premium,No Loan
+TXN00985,CUST0214,2025-08-31,Savings,Withdrawal,23879.96,384366.7,BR-050,Hyderabad,Telangana,Debit Card,31,Male,Premium,No Loan
+TXN00986,CUST0231,2025-06-11,Current,Withdrawal,140182.33,418047.32,BR-020,Hyderabad,Telangana,Credit Card,30,Female,Premium,No Loan
+TXN00987,CUST0104,2025-01-10,Current,Deposit,114452.3,205020.15,BR-014,Howrah,West Bengal,Cash,43,Male,Premium,No Loan
+TXN00988,CUST0141,2025-08-14,Current,Deposit,48615.95,396505.39,BR-007,Warangal,Telangana,Credit Card,56,Male,Retail,No Loan
+TXN00989,CUST0250,2025-12-28,Savings,Withdrawal,108565.95,471039.61,BR-016,Bengaluru,Karnataka,NEFT,51,Male,Corporate,No Loan
+TXN00990,CUST0038,2025-03-10,Savings,Deposit,8889.13,174632.51,BR-021,Warangal,Telangana,NEFT,44,Female,Premium,Approved
+TXN00991,CUST0134,2025-12-05,Savings,Transfer,45178.92,103997.18,BR-036,Kolkata,West Bengal,UPI,49,Male,Premium,No Loan
+TXN00992,CUST0095,2025-04-20,Savings,Deposit,130673.44,351129.4,BR-021,Hyderabad,Telangana,IMPS,41,Female,Premium,No Loan
+TXN00993,CUST0072,2025-01-12,Current,Withdrawal,50285.31,340446.06,BR-008,Jaipur,Rajasthan,IMPS,37,Female,Corporate,No Loan
+TXN00994,CUST0259,2025-01-17,Current,Withdrawal,119815.5,416678.85,BR-021,Howrah,West Bengal,UPI,53,Female,Retail,No Loan
+TXN00995,CUST0045,2025-09-20,Current,Transfer,10532.87,42398.52,BR-037,Jodhpur,Rajasthan,UPI,56,Male,Corporate,Approved
+TXN00996,CUST0038,2025-06-19,Savings,Deposit,115183.74,218318.63,BR-012,Udaipur,Rajasthan,Credit Card,50,Female,Corporate,Approved
+TXN00997,CUST0078,2025-08-07,Current,Deposit,60519.18,150437.82,BR-017,Coimbatore,Tamil Nadu,NEFT,45,Male,Retail,Approved
+TXN00998,CUST0158,2025-04-16,Current,Transfer,99977.58,386114.27,BR-012,Delhi,Delhi,NEFT,43,Male,Retail,No Loan
+TXN00999,CUST0084,2025-06-05,Savings,Deposit,81241.4,477556.99,BR-028,Bengaluru,Karnataka,Credit Card,41,Male,Corporate,Approved
+TXN01000,CUST0195,2025-04-17,Savings,Withdrawal,4580.82,439430.61,BR-004,Hyderabad,Telangana,Cash,28,Female,Retail,No Loan
