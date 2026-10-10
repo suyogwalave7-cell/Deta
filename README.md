@@ -56,7 +56,10 @@ Bank-Data-Analysis/
 │   └── transaction_type_amount.png
 ├── python/
 │   └── data_analysis.py
+├── sql/
+│   └── bank_analysis_queries.sql
 ├── Bank_Data_Analysis.pbix
+├── basic.py
 └── README.md
 ```
 
