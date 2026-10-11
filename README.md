@@ -59,7 +59,6 @@ Bank-Data-Analysis/
 ├── sql/
 │   └── bank_analysis_queries.sql
 ├── Bank_Data_Analysis.pbix
-├── basic.py
 └── README.md
 ```
 
