@@ -72,6 +72,8 @@ Bank-Data-Analysis/
 ## Dashboard
 The Power BI dashboard summarizes transaction amounts, transaction counts, average transaction amount, monthly trends, payment modes, and state-wise performance.
 
+![Bank Data Analysis Power BI Dashboard](images/bank_dashboard.png)
+
 ## Disclaimer
 This project uses a practice dataset for learning and portfolio demonstration purposes.
 
